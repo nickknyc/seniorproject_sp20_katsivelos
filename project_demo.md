@@ -1,0 +1,36 @@
+### DM-UY 4003 Senior Project in Digital Media
+##### Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay Street, Room 311
+
+# Project Demo
+
+Project Demos will be held on designated Mondays, and will consist of the professor, ALL students, and outside critics, at times. 
+
+     Each demo will consist of 
+     * 7 minutes of demo and 
+     * 7 minutes of critique 
+     (or a combination thereof)
+     for 14 minutes total. 
+
+You are always welcome to invite an outside critic to your project demo or project presentation. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.  
+
+Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and/or your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. 
+* Have at least two classmates take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. 
+* Review your crit notes and reflect upon what was said.
+* Ask yourself how you could combine, transform, or expand the ideas that show the most promise. 
+* However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
+
+Rules of the Critique:
+* Be Present and Engaged. (i.e. Close your laptops and turn off your cellphones.)
+* Give Feedback to your classmates.
+* Do NOT take feedback personally.
+
+## Additional Guidelines for your Project Demo
+* You will demo the project at its current state.
+* The focus is on the actual artifact you are creating and nothing else.
+* Do NOT create a supporting presentation.
+
+###Be prepared to discuss the following for your Project Demo
+From Stephanie Houde and Charles Hill's *What do Prototypes prototype?*, prototypes provide a means to 
+examine design problems.
+* What does (and does not) your prototype explore at this moment in time?
+* Evaluate whether the prototype gives you the feedback you require to transform or move forward with your project.
