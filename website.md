@@ -1,7 +1,7 @@
 #### DM-UY 4003 Senior Project in Digital Media
 ##### Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay Street, Room 311
 ---
-## Project Website
+## Process Website
 
 *Post URL weekly in the main Senior Project Slack Channel.*
 
@@ -12,8 +12,8 @@ You should have a **dedicated**, senior project website to document your **daily
 
 
 #### What your senior project process website should contain?
-* *Daily/Weekly Senior Process & Progress (AKA what have you done today or this week?) 
-* at least, 1 post per week DUE by or before noon on Mondays. If it is not posted by noon, you will not receive credit.)*
+* Daily/Weekly Senior Process & Progress (AKA what have you done today or this week?) 
+* at least, 1 post per week DUE by or before noon on Mondays. If it is not posted by noon, you will not receive credit for this week.
 * If you do not do anything for the week, write **I did not work on my senior project this week.**
 * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
 * Make sure to use tags so that you can group certain kinds of info.

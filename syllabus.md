@@ -8,12 +8,13 @@
     Office hours by appointment at http://calendly.com/deangela or directly after class 
     Office: 370 Jay St. Rm 361 or Bobst Rm 1238 • Office Phone: 646 997 3758  
 
-#####Github Repository: ??
-#####Course Management Site: http://idmspsp20.slack.com/ | [Join](https://join.slack.com/t/idmspsp20/shared_invite/enQtODkwNzM4NTE1ODkxLWUzNGNiZDA3NjUzY2E5YTE5NTFmY2FmM2ZkYzQ4MWIwYWUxOWRmZGY4MGI3NWFlYjExOTlmZWE3MGRkMzEzYjU) 
+#####Github Repository: https://github.com/IDMNYU/seniorproject_sp20_duff
+#####Course Management Site: http://idmspsp20.slack.com | [Join](https://join.slack.com/t/idmspsp20/shared_invite/enQtODkwNzM4NTE1ODkxLWUzNGNiZDA3NjUzY2E5YTE5NTFmY2FmM2ZkYzQ4MWIwYWUxOWRmZGY4MGI3NWFlYjExOTlmZWE3MGRkMzEzYjU) 
 
 ---
 
 *“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”* -Norman Vincent Peale
+
 *"We thrive when we stay on our own leading edge."* -Sarah Lewis from *The Rise: Creativity, the Gift of Failure, and the Search for Mastery* (p. 20). 
 
 ---
