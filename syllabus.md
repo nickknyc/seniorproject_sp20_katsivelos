@@ -19,6 +19,12 @@
 
 ---
 
+This semester there are four different sections of senior project. Please be aware that you may be switched into another section depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects you will most likely be placed in that instructor's section: 
+* design or audio project (Duff)
+* XR/AR/VR (Gannis)
+* Physical Computing (Nathanson)
+* Creative Technology / Entrepreneurship (Katsivelos)
+
 ## Welcome to Senior Project In Digital Media!
 
 **What is Senior Project in Digital Media?** Senior Project in Digital Media is the capstone course for the Integrated Digital Media (IDM) program. This course mirrors the creative process that professional artists, designers, creative technologists, and entrepreneurs must practice throughout their entire careers. In order to succeed, this course requires you to devote a lot of time and effort outside of class, throughout the entire semester.
@@ -37,6 +43,7 @@ The Senior Project can take many forms, including but not limited to the followi
 * print medium
 
 The Senior Project **can also be a team-based project** if your teammate is also taking Senior Project in any section this semester.
+
 
 ## Your Commitment to Senior Project
 Excerpt from the book *Anything You Want* by Derek Sivers
