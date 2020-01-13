@@ -9,7 +9,7 @@
 * [Join our slack channel](https://join.slack.com/t/idmspsp20/signup) with your nyu.edu email address
 * Create a google drive folder labeled "Senior Project SP20 your first and last name" and share with deangela.duff@nyu.edu (i.e. Senior Project SP20 De Angela Duff).
 * Set up [dedicated process website](website.md) for senior project.
-* Post your process website URL on slack in our shared channel.
+* Please add your name and the URL of your process website to this [shared google doc](https://docs.google.com/document/d/1tCl_rZb0OH85Z7vJsOvBm2n4mHT7xS9MQHRWxix_l6M/edit?usp=sharing).
 * Upload the following to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
 * Before beginning to prep for your [pecha kucha presentation](pecha_kucha.md), read the following chapters in *Do The Work* by Steven Pressfield. (There is a link to a pdf version in our slack channel.) 
 	* About this Book preface

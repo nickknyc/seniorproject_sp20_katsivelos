@@ -10,8 +10,6 @@ Project Demos will be held on designated Mondays, and will consist of the profes
      (or a combination thereof)
      for 14 minutes total. 
 
-You are always welcome to invite an outside critic to your project demos or project presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.  
-
 Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and/or your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. 
 * Have at least two classmates take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. 
 * Review your crit notes and reflect upon what was said.
@@ -41,3 +39,9 @@ From Stephanie Houde and Charles Hill's *What do Prototypes prototype?*, prototy
 examine design problems.
 * What does (and does not) your prototype explore at this moment in time?
 * Evaluate whether the prototype gives you the feedback you require to transform or move forward with your project.
+
+### Invite guests
+You are always welcome to invite an outside critic to your project demos or project presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.  
+
+### Document your feedback
+Always document the feedback you receive on your [process website](website.md) after any critique. This critique feedback post should include images of the current status of your project (prototype or version), a description of your project progress as it currently stands and discussion of the feedback your received from the critique. How will this feedback improve your work and ideas? 

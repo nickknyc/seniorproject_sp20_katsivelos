@@ -14,4 +14,8 @@ Each presentation will consist of
 (or a combination thereof)
 for 14 minutes total. 
 
+### Invite guests
+You are always welcome to invite an outside critic to your project demos or project presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.  
 
+### Document your feedback
+Always document the feedback you receive on your [process website](website.md) after any critique. This critique feedback post should include images of the current status of your project (prototype or version), a description of your project progress as it currently stands and discussion of the feedback your received from the critique. How will this feedback improve your work and ideas? 

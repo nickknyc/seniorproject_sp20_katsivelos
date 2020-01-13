@@ -28,3 +28,6 @@ Each presentation will consist of
     * Open to all
     * [NYU Tandon Logo](http://engineering.nyu.edu/services/communications/identity)
 
+### Invite guests
+You are always welcome to invite an outside critic to your project demos or project presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.  
+
