@@ -96,7 +96,7 @@ By the end of the course, students will be able to develop, complete, and docume
 
 ### Course Structure
 
-Students are expected to be on time for all meetings, critiques, and presentations. 
+Students are expected to be on time for all individual meetings, critiques, project demos, and presentations. 
 
 This class will consist of 
 * **Individual Meetings**
@@ -104,15 +104,7 @@ Be prepared to present and discuss your work at your appointed time. Students sh
 
     Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please swap times with a classmate.
 
-* **Class critiques**
-
-     Each presentation will consist of 
-     * 10 minutes of presentation and 
-     * 10 minutes of critique 
-     (or a combination thereof)
-     for 20 minutes total. 
-
-    It is the responsibility of each senior to invite an outside critic to at least one of their project critiques. “Outside” might mean a faculty member from IDM, another NYU school or program, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, <strong>documented</strong> meeting (date, time, length, and typed notes) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you.
+* **Group and class critiques**
 
     Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your accountability partner or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
 
@@ -129,7 +121,6 @@ Be prepared to present and discuss your work at your appointed time. Students sh
     * What are ways that the project can be improved?
     * What additional references, resources, projects, and/or links that would be useful for the project?
 
-Students will conduct **self assessments** as well as be evaluated by the professor during or after midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
 
 ### Required Readings
 * [Do The Work!](http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
@@ -137,8 +128,8 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 
 ### Communicating With The Professor Outside Of Class
 
-* Direct message deangela on Slack about logistics (when, where, how many?) ONLY
-* Talk to me in person directly after class, during your status meeting, or set up an appointment at http://calendly.com/deangela about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
+* Direct message the professor on Slack about logistics (when, where, how many?) ONLY
+* Talk to the professor directly after class, during your status meeting, or set up an appointment at http://calendly.com/deangela about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
 
 
 ### Student Responsibilities
@@ -164,6 +155,10 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 * Have patience, persistence, and discipline 
 * Be creative
 * Have self-confidence and pride in your work
+
+### Self Assessments
+
+Students will conduct **self assessments** as well as be evaluated by the professor at midterm and the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
 
 
 ### Evaluation & Grading
@@ -213,6 +208,7 @@ You will be judged on the quality, relevance, iteration, completion, and present
 * **C+ Poor Work** (Well Below Average)
 * **C Inadequate** (Less than adequate work)
 * **F Unacceptable** (The performance and/or attendance of the student has failed course requirements.)
+
 
 
 ### Technology Use In The Classroom

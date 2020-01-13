@@ -9,7 +9,7 @@ Please remember you and a classmate can work as a team. Only one presentation an
 
 The project plan will consist of a presentation and a written proposal.
 
-* Please name your file as lastname_senior_projectplandraft#_date.pdf (i.e. duff_senior_projectplan1_2016jan15.pdf). If a team, put both of your last names (i.e. duff_and_dubois)
+* Please name your file as lastname_senior_sp20_projectplandraft#_date.pdf (i.e. duff_senior_sp20_projectplan1_2016jan15.pdf). If a team, put both of your last names (i.e. duff_and_dubois)
 * Please note that any significant changes to your project will require the submission of a revised project plan.
 * Upload drafts to a folder labeled *project plan* in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
 
