@@ -53,7 +53,7 @@
     <td>
     <ul>
     <li>Read the 1st "Middle" chapter up until "Now We're Rolling" of <i>Do The Work</i> by Steven Pressfield (10 min) and post your <a href="responses.md">response</a> to your process website.</li>
-    <li><a href="plan.md">Research and design</a> your project.</a></li>    
+    <li><a href="project_plan.md">Research and design</a> your project.</a></li>    
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
     </td><td>
@@ -71,7 +71,7 @@
     <td>Wk 4 Mon Feb 24</td>
     <td>
     <ul>
-    <li>Iterate <a href="plan.md">research and design</a> of your project.</a></li> 
+    <li>Iterate <a href="project_plan.md">research and design</a> of your project.</a></li> 
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
     </td><td>
@@ -86,8 +86,8 @@
     <td>Wk 5 Mon Mar 02</td>
     <td>
     <ul>
-    <li>Draft list of <a href="plan.md">resources and milestones</a> for your project.</a></li>
-    <li>Iterate <a href="plan.md">research and design</a> of your project.</a></li>  
+    <li>Draft list of <a href="project_plan.md">resources and milestones</a> for your project.</a></li>
+    <li>Iterate <a href="project_plan.md">research and design</a> of your project.</a></li>  
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
     </td><td>
@@ -102,8 +102,8 @@
     <td>
     <ul>
     <li>Create <a href="project_plan_presentation.md">project plan presentation</a> minus the development section unless you're there already.</li>
-    <li>Iterate list of <a href="plan.md">resources and milestones</a> for your project.</a> (if applicable)</li> 
-    <li>Iterate <a href="plan.md">research and design</a> for your project.</a> (if applicable)</li>
+    <li>Iterate list of <a href="project_plan.md">resources and milestones</a> for your project.</a> (if applicable)</li> 
+    <li>Iterate <a href="project_plan.md">research and design</a> for your project.</a> (if applicable)</li>
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
     </td><td>
@@ -161,7 +161,7 @@
     <ul>
     <li>Read from "Now We're Rolling" in the 1st "Middle" chapter up until the 2nd "Middle" chapter of <i>Do The Work</i> by Steven Pressfield and post your <a href="responses.md">response</a> to your process website. (6 min)</li>
      <li>Revise <a href="pro_practices_revisions">Pro practices materials</a></li>
-     <li>Continue to <a href="plan.md">develop the project itself and iterate the research, design, resources, and milestones</a> of your project.</a></li> 
+     <li>Continue to <a href="project_plan.md">develop the project itself and iterate the research, design, resources, and milestones</a> of your project.</a></li> 
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>  
 ​    </td><td>
@@ -174,7 +174,7 @@
     <td>Wk 10 Mon Apr 13</td>
     <td>   
     <ul>
-        <li>Continue to <a href="plan.md">develop the project itself and iterate the research, design, resources, and milestones</a> of your project.</a></li> 
+        <li>Continue to <a href="project_plan.md">develop the project itself and iterate the research, design, resources, and milestones</a> of your project.</a></li> 
         <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
     </td><td>
@@ -188,12 +188,12 @@
     <td>Wk 11 Mon Apr 20</td>
      <td>
     <ul>
-    <li>Continue to <a href="plan.md">develop the project itself and iterate the research, design, resources, and milestones</a> of your project.</a></li> 
+    <li>Continue to <a href="project_plan.md">develop the project itself and iterate the research, design, resources, and milestones</a> of your project.</a></li> 
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
 ​    </td><td>
     <ul>
-    <li>Class Critique: <a href="plan.md">Project Demo of Gold Version</a></li>
+    <li>Class Critique: <a href="project_plan.md">Project Demo of Gold Version</a></li>
     </ul>
 ​    </td>
 </tr>
@@ -203,13 +203,13 @@
     <ul>
     <li>Direct message deangela on slack <strong>a flyer to promote your senior project public presentation on 370 Jay screens and BxMC facebook page</strong>.</li>
     <li>Prepare <a href="end_of_semester_deliverables.md">End of Semester Public Presentation</a></li>
-    <li>Continue to <a href="plan.md">develop the project itself and iterate the research, design, resources, and milestones</a> of your project.</a></li> 
+    <li>Continue to <a href="project_plan.md">develop the project itself and iterate the research, design, resources, and milestones</a> of your project.</a></li> 
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
 ​    </td><td>
     <ul>
     <li>Class Critique: <a href="end_of_semester_deliverables.md">End of Semester Public Presentation</a></li>  
-    <li>Class Critique: <a href="plan.md">Project Demo of Gold Version Revision</a> (if applicable)</li>
+    <li>Class Critique: <a href="project_plan.md">Project Demo of Gold Version Revision</a> (if applicable)</li>
 ​    </ul></td>
 </tr>
 <tr>
@@ -217,7 +217,7 @@
     <td>
     <ul>
     <li>Iterate <a href="end_of_semester_deliverables.md">End of Semester Public Presentation</a> (if applicable)</li>
-    <li>Continue to <a href="plan.md">develop the project itself and iterate the research, design, resources, and milestones</a> of your project.</a></li> 
+    <li>Continue to <a href="project_plan.md">develop the project itself and iterate the research, design, resources, and milestones</a> of your project.</a></li> 
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
      </td><td>
@@ -225,7 +225,7 @@
     <li>Class Critique (if applicable): 
         <ul>
             <li><a href="end_of_semester_deliverables.md">End of Semester Public Presentation Revision</a></li>  
-            <li><a href="plan.md">Project Demo of Gold Version Revision</a></li></ul>
+            <li><a href="project_plan.md">Project Demo of Gold Version Revision</a></li></ul>
     </ul>    
     </td> 
 </tr>
