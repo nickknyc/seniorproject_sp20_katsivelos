@@ -4,12 +4,13 @@
 
 ## Final Self-Assessment
 
-* Export as a pdf and post in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
-* Please name your file as yourname_finalassessment_senior_sp20.pdf
+* Please name your file as lastname__senior_sp20_finalassessment.pdf
+* Export as a pdf and upload to your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
+
 
 **Of Project**
-* Critically analyze/evaluate your senior project process and final execution.
-* What qualitative description would you give your overall process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
+* Critically analyze/evaluate your senior project process and final **execution**.
+* What qualitative description would you give your overall **process** and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
 * What qualitative description would you give the final execution of your project so far and why?
 * Do your deliverables match your initial concept (or last impact statement)?
 * Did you do what you said you were going to do (integrity, accountability)?

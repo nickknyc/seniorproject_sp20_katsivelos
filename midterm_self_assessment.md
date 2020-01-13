@@ -3,12 +3,12 @@
 ---
 
 ## Midterm Self-Assessment
-* Please name your file as lastname_midtermassessment_senior_sp20.pdf
+* Please name your file as lastname_senior_sp20_midtermassessment.pdf
 * Direct Message as pdf to deangela on Slack.
-* At end of semester, upload to your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
+* Export as a pdf and upload to your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
 
 **Of Project**
-* Critically analyze/evaluate your senior project process and final execution.
+* Critically analyze/evaluate your senior project **process**.
 * At this point in time, what qualitative description would you give your overall process and why? (i.e. excellent, very good, good, etc. Consult the grading overview descriptions presented earlier in this syllabus.)
 * At this point in time, what qualitative description would you give the project so far and why?
 * Reflect upon your project's progress at this point in time.
