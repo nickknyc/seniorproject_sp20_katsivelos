@@ -4,12 +4,12 @@
 
 ## Project Documentation for IDM Archives and Promotion
 
-Create a google drive folder labeled "Project Documentation" within your "Senior Project Spring 2020 your first and last name" (i.e. Senior Project Spring 2020 De Angela Duff) folder which you will share with deangela.duff@nyu.edu.
+Upload to a a folder labeled "Project Documentation" for your [end of semester deliverables](end_of_semester_deliverables.md).
 
 Photo documentation (for all students)
-    * ***at least*** 3, hi-res images of your project (RAW preferably or 300dpi)
+* ***at least*** 3, hi-res images of your project (RAW preferably or 300dpi)
 
-Video and/or Audio documentation (varies by student)
+Video and/or audio documentation (varies by student)
 *  If creating a screen-based, digital application (website, mobile app, game, etc.), create video documentation by screen capturing a user interacting with your digital project.
 * If creating a physical object, musical instrument, physical game, or interactive installation, create video documentation of a user interacting with your physical project.
 * If creating a performance or event, please provide video documentation of the performance or event.

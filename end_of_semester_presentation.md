@@ -7,7 +7,7 @@
 May TBD, Time TBD, 370 Jay Rm TBD (Attendance is MANDATORY for the entire # hours!)
 
 * Use the project plan as a guide for content. Your public presentation should showcase your completed senior project–gold version.
-* Use google slides and the [pecha kucha](pecha_kucha.md) format. 
+* Use google slides and the [pecha kucha](pecha_kucha.md) (20 slides x 20 sec) format. 
 * Export your presentation as a pdf and post in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
 
 Each presentation will consist of 

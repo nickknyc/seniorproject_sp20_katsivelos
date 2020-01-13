@@ -5,9 +5,8 @@
 ## Project Plan Presentation
 
 * Use the [project plan](plan.md) sections as a template for your visual presentation. The project plan is just a guideline for information for your presentation. It is up to you to decide which areas you want to focus on. In other words, how many slide(s) will you devote to each section. In some cases, you might omit a section if you think the class remembers key ideas from your previous presentation.
-* Use the pecha kucha format (20 slides x 20 sec) each.
-* Use google slides.
-
+* Use google slides and the [pecha kucha](pecha_kucha.md) (20 slides x 20 sec) format. 
+* Export your presentation as a pdf and post in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
 
 Each presentation will consist of 
 * 7 minutes of presentation and 
@@ -16,4 +15,3 @@ Each presentation will consist of
 for 14 minutes total. 
 
 
- * Export your presentation as a pdf and post in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
