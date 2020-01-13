@@ -33,7 +33,7 @@
     <td>Wk 2 Mon Feb 03</td>
     <td>
     <ul>
-    <li>Read Letters from Previous Cohort</li> 
+    <li>Read [letters from a previous cohort](https://drive.google.com/open?id=1Fr1cw72xTrvwSBTM6Bh9OU2XepJ1YNOk)</li> 
     <Li>Read <a href="https://basecamp.com/gettingreal/09.2-epicenter-design" target="_blank">Epicenter Design</a> (1min) and post your response to your process website. The point of assigning this reading is not about building websites. How can you translate this reading to your medium? What is the epicenter of your concept? What is the epicenter of your story? What is the epicenter of your medium?</Li>
     <li>Iterate <a href="pecha_kucha.md">Pecha Kucha Presentation</a> (if applicable)</li>
     <li><a href="website.md">Document</a> your process and project.</li> 
