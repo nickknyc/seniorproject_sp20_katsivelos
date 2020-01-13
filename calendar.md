@@ -34,7 +34,7 @@
     <td>
     <ul>
     <li>Read <a href="https://drive.google.com/open?id=1Fr1cw72xTrvwSBTM6Bh9OU2XepJ1YNOk" target="_blank">letters from a previous cohort</a></li> 
-    <Li>Read <a href="https://basecamp.com/gettingreal/09.2-epicenter-design" target="_blank">Epicenter Design</a> (1min) and post your response to your process website. The point of assigning this reading is not about building websites. How can you translate this reading to your medium? What is the epicenter of your concept? What is the epicenter of your story? What is the epicenter of your medium?</Li>
+    <Li>Read <a href="https://basecamp.com/gettingreal/09.2-epicenter-design" target="_blank">Epicenter Design</a> (1min) and post your <a href="responses.md">response</a> to your process website. The point of assigning this reading is not about building websites. How can you translate this reading to your medium? What is the epicenter of your concept? What is the epicenter of your story? What is the epicenter of your medium?</Li>
     <li>Iterate <a href="pecha_kucha.md">Pecha Kucha Presentation</a> (if applicable)</li>
     <li><a href="website.md">Document</a> your process and project.</li> 
     </ul>
@@ -52,7 +52,7 @@
     <td>Wk 3 Mon Feb 10</td>
     <td>
     <ul>
-    <li>Read the 1st "Middle" chapter up until "Now We're Rolling" of <i>Do The Work</i> by Steven Pressfield (10 min) and post your response to your process website.</li>
+    <li>Read the 1st "Middle" chapter up until "Now We're Rolling" of <i>Do The Work</i> by Steven Pressfield (10 min) and post your <a href="responses.md">response</a> to your process website.</li>
     <li><a href="plan.md">Research and design</a> your project.</a></li>    
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
@@ -118,7 +118,7 @@
     <td>Wk 7 Mon Mar 23</td>
     <td>
     <ul> 
-    <li>Read from "Now We're Rolling" in the 1st "Middle" chapter up until the 2nd "Middle" chapter of <i>Do The Work</i> by Steven Pressfield and post your response to your process website.(6 min)</li>
+    <li>Read from "Now We're Rolling" in the 1st "Middle" chapter up until the 2nd "Middle" chapter of <i>Do The Work</i> by Steven Pressfield and post your <a href="responses.md">response</a> to your process website.(6 min)</li>
     <li>Create <a href="project)plan.md">prototype(s)</a> of your project.</a> (if applicable)</li>
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
@@ -159,7 +159,7 @@
     <td>Wk 9 Mon Apr 6</td>
     <td>
     <ul>
-    <li>Read from "Now We're Rolling" in the 1st "Middle" chapter up until the 2nd "Middle" chapter of <i>Do The Work</i> by Steven Pressfield and post your response to your process website. (6 min)</li>
+    <li>Read from "Now We're Rolling" in the 1st "Middle" chapter up until the 2nd "Middle" chapter of <i>Do The Work</i> by Steven Pressfield and post your <a href="responses.md">response</a> to your process website. (6 min)</li>
      <li>Revise <a href="pro_practices_revisions">Pro practices materials</a></li>
      <li>Continue to <a href="plan.md">develop the project itself and iterate the research, design, resources, and milestones</a> of your project.</a></li> 
     <li><a href="website.md">Document</a> your process and project.</li>
@@ -233,7 +233,7 @@
     <td>Wk 14 Mon May 11</td>
     <td>     
     <ul>
-    <li>Read from "End" chapter of <i>Do The Work</i> by Steven Pressfield (6 min) and post your response to your process website.</li>
+    <li>Read from "End" chapter of <i>Do The Work</i> by Steven Pressfield (6 min) and post your <a href="responses.md">response</a> to your process website.</li>
     <li>Iterate <a href="end_of_semester_deliverables.md">End of Semester Public Presentation</a></li>
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
