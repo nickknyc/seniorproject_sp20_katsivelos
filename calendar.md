@@ -119,20 +119,20 @@
     <td>
     <ul> 
     <li>Read from "Now We're Rolling" in the 1st "Middle" chapter up until the 2nd "Middle" chapter of <i>Do The Work</i> by Steven Pressfield and post your response to your process website.(6 min)</li>
-    <li>Create <a href="plan.md">prototype(s)</a> of your project.</a> (if applicable)</li>
+    <li>Create <a href="project)plan.md">prototype(s)</a> of your project.</a> (if applicable)</li>
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
 ​    </td><td>
     <ul>
     <li>Class critique: <a href="project_plan_presentation.md">Project plan presentation revisions</a> (if applicable)</li>
-    <li>Class critique: <a href="plan.md">Prototype(s)</a>
+    <li>Class critique: <a href="project_plan.md">Prototype(s)</a>
     </ul>
 </td> </tr>
 <tr>
     <td>Wk 8 Mon Mar 30</td>
     <td>
     <ul>
-    <li>Create and/or iterate <a href="plan.md">prototype(s)</a> of your project.</a></li>
+    <li>Create and/or iterate <a href="project_plan.md">prototype(s)</a> of your project.</a></li>
     <li><a href="website.md">Document</a> your process and project.</li>  
     </ul>
 ​    </td><td>

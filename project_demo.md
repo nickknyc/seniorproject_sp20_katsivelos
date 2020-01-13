@@ -10,7 +10,7 @@ Project Demos will be held on designated Mondays, and will consist of the profes
      (or a combination thereof)
      for 14 minutes total. 
 
-You are always welcome to invite an outside critic to your project demo or project presentation. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.  
+You are always welcome to invite an outside critic to your project demos or project presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.  
 
 Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and/or your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. 
 * Have at least two classmates take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. 
@@ -18,10 +18,18 @@ Critiques (AKA crits) are the best way to articulate your ideas to others and ge
 * Ask yourself how you could combine, transform, or expand the ideas that show the most promise. 
 * However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
 
-Rules of the Critique:
-* Be Present and Engaged. (i.e. Close your laptops and turn off your cellphones.)
-* Give Feedback to your classmates.
+Rules of the critique:
+* Be present and engaged (i.e. Close your laptops and stow your cellphones).
+* Give feedback to your classmates. 
+* Do not make assumptions. Ask questions.
+* Do your best.
 * Do NOT take feedback personally.
+
+Guidelines for the critique:
+* What is working about the project?
+* What is confusing or needs more clarification about the project?
+* What are ways that the project can be improved?
+* What additional references, resources, projects, and/or links that would be useful for the project?
 
 ## Additional Guidelines for your Project Demo
 * You will demo the project at its current state.
