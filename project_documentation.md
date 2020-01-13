@@ -1,9 +1,8 @@
-#### DM-UY 4003 Senior Project in Digital Media
-##### Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay Street, Room 311
+#### DM-UY 4003 Senior Project in Digital Media • Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay Street, Room 311
 
 ---
 
-## PROJECT DOCUMENTATION FOR IDM ARCHIVES and PROMOTION
+## Project Documentation for IDM Archives and Promotion
 
 Create a google drive folder labeled "Project Documentation" within your "Senior Project Spring 2020 your first and last name" (i.e. Senior Project Spring 2020 De Angela Duff) folder which you will share with deangela.duff@nyu.edu.
 

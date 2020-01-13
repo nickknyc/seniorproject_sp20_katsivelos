@@ -1,5 +1,4 @@
-### DM-UY 4003 Senior Project in Digital Media
-##### Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay Street, Room 311
+### DM-UY 4003 Senior Project in Digital Media • Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay Street, Rm 311
 
 ---
 # Project Plan
@@ -12,7 +11,7 @@ The project plan will consist of a presentation and a written proposal.
 
 * Please name your file as lastname_senior_projectplandraft#_date.pdf (i.e. duff_senior_projectplan1_2016jan15.pdf). If a team, put both of your last names (i.e. duff_and_dubois)
 * Please note that any significant changes to your project will require the submission of a revised project plan.
-* Upload drafts to a folder labeled *project plan* in your project documentation folder for your [end of semester deliverables](end_of_semester_presentation.md).
+* Upload drafts to a folder labeled *project plan* in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
 
 
 

@@ -17,4 +17,4 @@ Each presentation will consist of
 for 14 minutes total. 
 
 
- * Export your presentation as a pdf and post in your project documentation folder for your [end of semester deliverables](end_of_semester_presentation.md).
+ * Export your presentation as a pdf and post in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).

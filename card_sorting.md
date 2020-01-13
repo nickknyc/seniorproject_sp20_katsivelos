@@ -1,5 +1,4 @@
-### DM-UY 4003 Senior Project in Digital Media
-##### Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay Street, Room 311
+### DM-UY 4003 Senior Project in Digital Media • Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay Street, Rm 311
 
 ---
 
@@ -10,10 +9,10 @@
 Card sorting is about creating associations between information. Please complete the following steps and take pictures of your cards at the end of each step. Post the results to your project website.
 
 **CARD SORTING:**
-* Use a dark pen or sharpie to write
-* Get four different colors of post-it notes or index cards
+* Use a dark pen or sharpie to write.
+* Get four different colors of post-it notes or index cards.
 * Take pictures of each step along the way. Make sure the photos are lit well and have good contrast.
-* Upload your photos to your <a href="dm4003_senior_project_website.md" target="_blank">project website</a>
+* Upload your photos to your [process website](website.md).
 
 **Step 1: PROJECT CARDS**
 
@@ -37,7 +36,7 @@ Once you come up with a project idea, try to deconstruct it and organize differe
 
 **Step 5: IDEA LIST**
 
-Figure out which of these ideas speak most strongly to you. Make a ranked list of the idea cards. Ask yourself why you choose those cards, and why the idea is interesting to you. Take photos and notes and post to your <a href="dm4003_senior_project_website.md" target="_blank">project website</a>. 
+Figure out which of these ideas speak most strongly to you. Make a ranked list of the idea cards. Ask yourself why you choose those cards, and why the idea is interesting to you. Take photos and notes and post to your [process website](website.md). 
 
 
 

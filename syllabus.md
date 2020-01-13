@@ -21,9 +21,9 @@
 
 This semester there are four different sections of senior project. Please be aware that you may be switched into another section depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects you will most likely be placed in that instructor's section: 
 * design, photo, or audio (Duff)
-* XR/AR/VR (Gannis)
+* XR / AR / VR (Gannis)
 * creative technology / entrepreneurship (Katsivelos)
-* physical computing/fabrication/sculpture (Nathanson)
+* physical computing / fabrication / sculpture (Nathanson)
 
 
 ## Welcome to Senior Project In Digital Media!
@@ -189,16 +189,16 @@ Students will conduct **self assessments** as well as be evaluated by the profes
     * 10% [Project Demos and Critiques](project_demo.md)
     * 05% [Midterm Demo and Critique](project_demo.md)
     * 05% [End Of Semester Public Presentation](end_of_semester_presentation.md)
-    * 05% [Exhibiting your senior project in the IDM Student Showcase]()
+    * 05% [Exhibiting your senior project in the IDM Student Showcase](idm_showcase.md)
 * 40% [End of Semester Documentation and Deliverables](end_of_semester_deliverables.md)   
-    * 10% [End of Semester Project PDF](pdf_or_book)
-    * (OPTIONAL) [End of Semester Project Book for EXTRA CREDIT (raise final grade by half a letter grade)](pdf_or_book)
+    * 10% [End of Semester Process PDF](pdf_or_book.md)
+    * (OPTIONAL) [End of Semester Process Book for EXTRA CREDIT (raise final grade by half a letter grade)](pdf_or_book.md)
     * 10% [Project Documentation For IDM Archives and Promotion](project_documentation.md)
     * 7.5% [Pro Practices Revisions](pro_practices_revisions.md)   
     * 2.5% [Final Self-assessment](final_self_assessment.md)
     * 2.5% [Letter To Next Cohort](letter_to_next_cohort.md)
-    * 2.5% [Midterm Self Assessment](midterm_self_assessment.md)
-    * 2.5% [Pre-work](pre_work.md)
+    * 2.5% [Midterm Self Assessment](midterm_assessment.md)
+    * 2.5% [Pre-work](pre-work.md)
     * 2.5% [Course Evaluation](course_evaluation.md)  
 
 ##### Qualitative Grading Overview
@@ -222,11 +222,11 @@ Laptop computers and other mobile devices are invaluable tools for students when
 
 ### Academic Honesty
 
-Please review <a href="http://engineering.nyu.edu/academics/code-of-conduct/academic-dishonesty" target="_blank">NYU's School of Engineering's academic dishonesty policy</a> in its entirety.
+Please review [NYU Tandon's academic dishonesty policy](https://engineering.nyu.edu/campus-and-community/student-life/office-student-affairs/policies/student-code-conduct) in its entirety.
 
 All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA or Chicago Manual style for citing and documenting source material.
 
-You MUST have complete rights of use to any and all materials which appear in your senior projects. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with other students to create your own media or contact the authors of your media selections for rights. I strongly encourage you to use original media for your senior projects, however should you absolutely require to use stock images, video, etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated or whether it is creative commons or copyright free.     
+You MUST have complete rights of use to any and all materials which appear in your senior project. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with other students to create your own media or contact the authors of your media selections for rights. I strongly encourage you to use original media for your senior project, however should you absolutely require to use stock images, video, etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated or whether it is creative commons or copyright free.     
 
 
 ### Academic Accommodations
@@ -239,7 +239,7 @@ If you are student with a disability who is requesting accommodations, please co
 
 ### Required Tools
 * Analog or Digital Calendar
-* [Personal Kanban](http://www.personalkanban.com)
+* [Personal Kanban](http://personalkanban.com/pk/personal-kanban-101/)
 
 ### [Recommended Resources](recommended_resources.md)
 See Appendix
