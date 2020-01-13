@@ -1,4 +1,4 @@
-### DM-UY 4003 Senior Project in Digital Media • Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay Street, Rm 311
+##### DM-UY 4003 Senior Project in Digital Media • Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay St Rm 311
 
 ---
 
