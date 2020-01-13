@@ -26,5 +26,5 @@ Each presentation will consist of
     * Put Your Time ONLY
     * Location TBD
     * Open to all
-    * []NYU Tandon Logo](http://engineering.nyu.edu/services/communications/identity)</a>
+    * [NYU Tandon Logo](http://engineering.nyu.edu/services/communications/identity)
 
