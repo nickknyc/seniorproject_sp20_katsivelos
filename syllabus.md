@@ -8,8 +8,8 @@
     Office hours by appointment at http://calendly.com/deangela or directly after class 
     Office: 370 Jay St. Rm 361 or Bobst Rm 1238 • Office Phone: 646 997 3758  
 
-#####Github Repository: https://github.com/IDMNYU/seniorproject_sp20_duff
-#####Course Management Site: http://idmspsp20.slack.com | [Join](https://join.slack.com/t/idmspsp20/signup) with nyu.edu email address
+##### Github Repository: https://github.com/IDMNYU/seniorproject_sp20_duff
+##### Course Management Site: http://idmspsp20.slack.com | [Join](https://join.slack.com/t/idmspsp20/signup) with nyu.edu email address
 
 ---
 
@@ -116,12 +116,18 @@ Be prepared to present and discuss your work at your appointed time. Students sh
 
     Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your accountability partner or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
 
-    Rules of the Critique:
-    * Be Present and Engaged (i.e. Close your laptops and stow your cellphones).
-    * Give Feedback to your classmates. 
+    Rules of the critique:
+    * Be present and engaged (i.e. Close your laptops and stow your cellphones).
+    * Give feedback to your classmates. 
     * Do not make assumptions. Ask questions.
     * Do your best.
     * Do NOT take feedback personally.
+
+    Guidelines for the critique:
+    * What is working about the project?
+    * What is confusing or needs more clarification about the project?
+    * What are ways that the project can be improved?
+    * What additional references, resources, projects, and/or links that would be useful for the project?
 
 Students will conduct **self assessments** as well as be evaluated by the professor during or after midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
 
@@ -138,8 +144,8 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 ### Student Responsibilities
 
 * Schedule your time (keep a calendar of some sort) 
-* Come to the weekly project critique on Mondays and your individual meetings on time. 
-* Participate in project critiques and discussions. Be vocal.
+* Come to class, individual meetings, and special events on time. 
+* Participate in class critiques and discussions. Be vocal.
 * Consult slack at least once a week for up to date info
 * Maintain a weekly, dedicated, process website
 * **Back up your work constantly** 
@@ -180,18 +186,19 @@ Students will conduct **self assessments** as well as be evaluated by the profes
     * 10% [Project Plan and its revisions](project_plan.md)
     * 10% [Project Development](project_plan.md)
 * 25% Critiques, Demos, Presentations & Exhibition
-    * 10% [Project Demos and Critiques]()
+    * 10% [Project Demos and Critiques](project_demo.md)
     * 05% [Midterm Demo and Critique](project_demo.md)
     * 05% [End Of Semester Public Presentation](end_of_semester_presentation.md)
     * 05% [Exhibiting your senior project in the IDM Student Showcase]()
 * 40% [End of Semester Documentation and Deliverables](end_of_semester_deliverables.md)   
     * 10% [End of Semester Project PDF](pdf_or_book)
     * (OPTIONAL) [End of Semester Project Book for EXTRA CREDIT (raise final grade by half a letter grade)](pdf_or_book)
-    * 10% [Project Documentation For IDM Archives and Promotion](project_documentation.md)* 7.5% [Pro Practices Revisions](pro_practices_revisions.md)   
+    * 10% [Project Documentation For IDM Archives and Promotion](project_documentation.md)
+    * 7.5% [Pro Practices Revisions](pro_practices_revisions.md)   
     * 2.5% [Final Self-assessment](final_self_assessment.md)
     * 2.5% [Letter To Next Cohort](letter_to_next_cohort.md)
     * 2.5% [Midterm Self Assessment](midterm_self_assessment.md)
-    * 2.5% [Pre work](pre_work.md)
+    * 2.5% [Pre-work](pre_work.md)
     * 2.5% [Course Evaluation](course_evaluation.md)  
 
 ##### Qualitative Grading Overview
