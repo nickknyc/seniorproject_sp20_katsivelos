@@ -16,13 +16,6 @@
     <td>Wk 1 Mon Jan 27</td>
     <td>
     <ul>
-    <li><strong>Read the <a href="syllabus.md">syllabus</a></strong> and be prepared to discuss and ask questions on first day of class.</li>   
-    <li>Please direct message deangela on slack if you find any broken links or typos in the syllabus.</li>
-    <li><strong>Populate a calendar</strong> (google, iCal, or non-digital) with due dates for this class, even though dates may change.</li>
-    <li><strong>Set up <a href="website.md">dedicated process website</a></strong> for senior project.</li>
-    <li><strong>Create a google drive folder labeled "Senior Project Spring 2020 your first and last name" and share with deangela.duff@nyu.edu</strong> (i.e. Senior Project Spring 2020 De Angela Duff).</li> 
-    <li><strong><a href="https://join.slack.com/t/idmspsp20/shared_invite/enQtODkwNzM4NTE1ODkxLWUzNGNiZDA3NjUzY2E5YTE5NTFmY2FmM2ZkYzQ4MWIwYWUxOWRmZGY4MGI3NWFlYjExOTlmZWE3MGRkMzEzYjU" target="_blank">Join our slack channel: http://idmspsp20.slack.com</strong></li>
-    <li><strong>Post your project website URL</strong> on slack in our shared channel.</li>
     <li><strong><a href="pre-work.md">Do pre-work DUE on first day of class</a></strong>.</li>
     </ul></td> 
     <td>

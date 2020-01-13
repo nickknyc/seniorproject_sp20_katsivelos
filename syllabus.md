@@ -9,7 +9,7 @@
     Office: 370 Jay St. Rm 361 or Bobst Rm 1238 • Office Phone: 646 997 3758  
 
 #####Github Repository: https://github.com/IDMNYU/seniorproject_sp20_duff
-#####Course Management Site: http://idmspsp20.slack.com | [Join](https://join.slack.com/t/idmspsp20/shared_invite/enQtODkwNzM4NTE1ODkxLWUzNGNiZDA3NjUzY2E5YTE5NTFmY2FmM2ZkYzQ4MWIwYWUxOWRmZGY4MGI3NWFlYjExOTlmZWE3MGRkMzEzYjU) 
+#####Course Management Site: http://idmspsp20.slack.com | [Join](https://join.slack.com/t/idmspsp20/signup) with nyu.edu email address
 
 ---
 
@@ -20,10 +20,11 @@
 ---
 
 This semester there are four different sections of senior project. Please be aware that you may be switched into another section depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects you will most likely be placed in that instructor's section: 
-* design or audio project (Duff)
+* design, photo, or audio (Duff)
 * XR/AR/VR (Gannis)
-* Physical Computing (Nathanson)
-* Creative Technology / Entrepreneurship (Katsivelos)
+* creative technology / entrepreneurship (Katsivelos)
+* physical computing/fabrication/sculpture (Nathanson)
+
 
 ## Welcome to Senior Project In Digital Media!
 
