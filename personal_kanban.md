@@ -3,7 +3,7 @@
 ---
 
 ## Personal Kanban / Project Milestones
-**Break down** EVERYTHING you need to do for **your project into actionable tasks** using [Personal Kanban](http://personalkanban.com). All actionable tasks should start with a verb (i.e. write, call, email, build, collect, etc.). 
+**Break down** EVERYTHING you need to do for **your project into actionable tasks** using [Personal Kanban](http://personalkanban.com/pk/personal-kanban-101/). All actionable tasks should start with a verb (i.e. write, call, email, build, collect, etc.). 
 
 I recommend using an analog, digital or analog/digital combination. 
 
