@@ -5,24 +5,24 @@
 *Post URL weekly in the main Senior Project Slack Channel.*
 
 You should have a **dedicated**, senior project website to document your **daily** and/or **weekly** process and progress of your senior project. Students are expected to share their process and progress with others using their "process" website.
-* Ideally under your own domain name with a folder named after your project. See Spencer's link below under Example Process Websites. 
+* Ideally under your own domain name with a folder named after your project. See Spencer's link below under "Example Process Websites". 
     * I recommend [Dreamhost](http://dreamhost.com) or [Siteground](http://siteground.com) for purchasing a domain and web hosting.
 * Second best is hosting on http://wp.nyu.edu
 
 
 #### What your senior project process website should contain?
-* Daily/Weekly Senior Process & Progress (AKA what have you done today or this week?) 
+* Daily/Weekly senior project process & progress (AKA what have you done today or this week?) 
 * at least, 1 post per week DUE by or before noon on Mondays. If it is not posted by noon, you will not receive credit for this week.
-* If you do not do anything for the week, write **I did not work on my senior project this week.**
+* If you do not do anything for the week, write **I did not work on my senior project this week.** You will still get credit as opposed to not posting anything at all.
 * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
 * Make sure to use tags so that you can group certain kinds of info.
-  * Milestones / Tasks that have been completed (transcribed from your personal kanban)
+  * Milestones / tasks that have been completed (either transcribed or linked from your personal kanban or a screenshot or photo).
   * Include who or what was involved.
   * Include project progress and prototyping documentation: images, illustrations, audio, video, code, snippets of research, ANNOTATED links, etc. relevant to your thesis. 
-  * Accountability partner meeting notes
-  * Summaries of interviews and meetings about your project
-  * pdfs of any presentations (annotated)
-  * Notes taken about your project, prototypes, and presentations by you or your accountability partner
+  * Accountability partner meeting notes.
+  * Summaries of interviews and meetings about your project.
+  * pdfs of any presentations (annotated).
+  * Notes taken about your project, prototypes, and presentations by you or your accountability partner.
   * Notes on problems, challenges or questions that have arisen in your project development. Discuss what is and what is not working.
   
 
@@ -45,16 +45,16 @@ You should have a **dedicated**, senior project website to document your **daily
 
 
 #### Examples of Process Websites
-Spencer Hargiss’ project website is a good example, http://www.spencerhargiss.com/thesis/. Please use Spencer’s project website as a guide. Why?  
+Spencer Hargiss’ process website is a good example, http://www.spencerhargiss.com/thesis/. Please use Spencer’s process website as a guide. Why?  
 * You can clearly read what his project was about due to his about link. You don’t have to wade through to the beginning of his posts to find this out. His navigation stands out due to its visual hierarchy.
 * He explicitly stated what he did, concisely and clearly.
 * He had visual documentation (images and screenshots). 
 * However, most importantly, he had supporting text for these images and screenshots.
 
-Also the following PDFs contain excellent examples of possible entries:
+Also the following pdf contain excellent examples of possible entries:
 * http://issuu.com/russmaschmeyer/docs/motiv-process-book (process)
   * http://musicwithmotiv.com (project)
-* http://www.clickcolleen.com/foodforthought/CMiller_processbook.pdf
+
 
 
 

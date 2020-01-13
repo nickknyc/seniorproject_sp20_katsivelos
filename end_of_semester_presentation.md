@@ -2,18 +2,19 @@
 
 ---
 
-## End Of Semester Senior Project Public Presentations
+## End Of Semester Senior Project Public Presentation
 
 May TBD, Time TBD, 370 Jay Rm TBD (Attendance is MANDATORY for the entire # hours!)
 
-* Use the project plan as a guide for content. Use the [pecha kucha](pecha_kucha.md) format. Your public presentation should showcase your completed senior project–gold version.
-* Export your presentation as a pdf and post in your project documentation folder for your [end of semester deliverables](end_of_semester_presentation.md).
+* Use the project plan as a guide for content. Your public presentation should showcase your completed senior project–gold version.
+* Use the [pecha kucha](pecha_kucha.md) format. 
+* Export your presentation as a pdf and post in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
 
-     Each presentation will consist of 
-     * 7 minutes of presentation and 
-     * 7 minutes of Q&A 
-     (or a combination thereof)
-     for 14 minutes total. 
+Each presentation will consist of 
+    * 7 minutes of presentation and 
+    * 7 minutes of Q&A 
+    (or a combination thereof)
+    for 14 minutes total. 
 
 * Create a flyer to promote your senior project public presentation on 370 Jay screens and BxMC facebook page.
   
@@ -25,5 +26,5 @@ May TBD, Time TBD, 370 Jay Rm TBD (Attendance is MANDATORY for the entire # hour
     * Put Your Time ONLY
     * Location TBD
     * Open to all
-    * <a href="http://engineering.nyu.edu/services/communications/identity">NYU Tandon's Logo</a>
+    * []NYU Tandon Logo](http://engineering.nyu.edu/services/communications/identity)</a>
 
