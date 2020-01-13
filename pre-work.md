@@ -7,7 +7,7 @@
 * Please direct message deangela on slack if you find any broken links or typos in the syllabus.
 * Populate a calendar (google, iCal, or non-digital) with due dates for this class, even though dates may change.
 * [Join our slack channel](https://join.slack.com/t/idmspsp20/signup) with your nyu.edu email address
-* Create a google drive folder labeled "Senior Project Spring 2020 your first and last name" and share with deangela.duff@nyu.edu (i.e. Senior Project Spring 2020 De Angela Duff).
+* Create a google drive folder labeled "Senior Project SP20 your first and last name" and share with deangela.duff@nyu.edu (i.e. Senior Project SP20 De Angela Duff).
 * Set up [dedicated process website](website.md) for senior project.
 * Post your process website URL on slack in our shared channel.
 * Upload the following to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](end_of_semester_presentation.md).
