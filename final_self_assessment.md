@@ -4,7 +4,7 @@
 
 ## Final Self-Assessment
 
-* Export as a pdf and post in your project documentation folder for your [end of semester deliverables](end_of_semester_presentation.md).
+* Export as a pdf and post in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
 * Please name your file as yourname_finalassessment_senior_sp20.pdf
 
 **Of Project**

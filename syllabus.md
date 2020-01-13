@@ -197,7 +197,7 @@ Students will conduct **self assessments** as well as be evaluated by the profes
     * 7.5% [Pro Practices Revisions](pro_practices_revisions.md)   
     * 2.5% [Final Self-assessment](final_self_assessment.md)
     * 2.5% [Letter To Next Cohort](letter_to_next_cohort.md)
-    * 2.5% [Midterm Self Assessment](midterm_assessment.md)
+    * 2.5% [Midterm Self Assessment](midterm_self_assessment.md)
     * 2.5% [Pre-work](pre-work.md)
     * 2.5% [Course Evaluation](course_evaluation.md)  
 

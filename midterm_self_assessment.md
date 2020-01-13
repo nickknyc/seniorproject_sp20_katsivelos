@@ -5,7 +5,7 @@
 ## Midterm Self-Assessment
 * Please name your file as lastname_midtermassessment_senior_sp20.pdf
 * Direct Message as pdf to deangela on Slack.
-* At end of semester, upload to your project documentation folder for your [end of semester deliverables](end_of_semester_presentation.md).
+* At end of semester, upload to your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
 
 **Of Project**
 * Critically analyze/evaluate your senior project process and final execution.

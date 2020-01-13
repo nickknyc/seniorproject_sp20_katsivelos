@@ -20,7 +20,7 @@
 
 * [Keep Going: 10 Ways to Stay Creative in Good Times and Bad](https://www.amazon.com/Keep-Going-Ways-Creative-Times/dp/1523506644/ref=sr_1_1?keywords=austin+kleon&qid=1578346637&sr=8-1) by Austin Kleon ([Cheat Sheet](https://miro.medium.com/max/2048/1*Sz1lQkqKnhcWjcmy4xaxNA.jpeg))
 
-* [Show Your Work!](http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1420589663&sr=8-1&keywords=show+the+work+austin+kleon) by Austin Kleon ([Cheat Sheet](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1384352860i/6856374._SY540_.jpg)
+* [Show Your Work!](http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1420589663&sr=8-1&keywords=show+the+work+austin+kleon) by Austin Kleon ([Cheat Sheet](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1384352860i/6856374._SY540_.jpg))
 
 * [Steal Like An Artist: 10 Things Nobody Told You About Being Creative](http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/ref=sr_1_1?ie=UTF8&qid=1422468736&sr=8-1&keywords=steal+like+an+artist) by Austin Kleon ([Cheat Sheet](https://bbinno.files.wordpress.com/2016/04/steal2.png?w=736))
 
@@ -44,7 +44,7 @@
 
 *Time Management*
 
-* [personalkanban.com](http://www.personalkanban.com)
+* [personalkanban.com](http://personalkanban.com/pk/personal-kanban-101/)
 
 * [The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234/ref=sr_1_1?crid=2XGNL8WLOA3UK&keywords=12+week+year&qid=1578346745&s=books&sprefix=12+week+%2Cstripbooks%2C128&sr=1-1) by Brian P. Moran &amp; Michael Lennington
 

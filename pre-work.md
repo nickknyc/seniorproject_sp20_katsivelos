@@ -10,7 +10,7 @@
 * Create a google drive folder labeled "Senior Project SP20 your first and last name" and share with deangela.duff@nyu.edu (i.e. Senior Project SP20 De Angela Duff).
 * Set up [dedicated process website](website.md) for senior project.
 * Post your process website URL on slack in our shared channel.
-* Upload the following to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](end_of_semester_presentation.md).
+* Upload the following to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
 * Before beginning to prep for your [pecha kucha presentation](pecha_kucha.md), read the following chapters in *Do The Work* by Steven Pressfield. (There is a link to a pdf version in our slack channel.) 
 	* About this Book preface
 	* Orientation: Enemies & Allies
@@ -19,10 +19,10 @@
 	* create a google doc in your folder with a list of your enemies and allies. Also, 
 * Prepare [pecha kucha presentation](pecha_kucha.md) to present on the 1st day of class.
 * Listen to the first [watchmen tv series podcast](https://www.hbo.com/watchmen/watchmen-listen-to-official-podcast), Masks, for episodes 1-3 (57 min) to hear about writer Damon Lindelof's process. The point of listening is NOT to learn about the watchmen but to understand his creative process in developing the tv series and how his team went about researching and making creative decisions. You don't need to watch the series because again you're not listening to this to learn about watchmen. I want you to hear how Lindelof's "inputs" (remember ideation &amp; prototyping) help him create.
-* AFTER listening to the podcast, write a [response](responses.md). Identify at least 3 "inputs" for Lindelof in creating watchmen, NOT including the original graphic novel. Post to slack and upload to your project documentation folder for your [end of semester deliverables](end_of_semester_presentation.md). 
+* AFTER listening to the podcast, write a [response](responses.md). Identify at least 3 "inputs" for Lindelof in creating watchmen, NOT including the original graphic novel. Post to slack and upload to your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md). 
 * (OPTIONAL) If you need help coming up with ideas for your senior project, do one or more of the following brainstorming exercises and document (i.e. Take photos and/or screenshots OR write a [response](responses.md), depending on which is applicable and post to your [process website](website.md).)
 
-	* [Mind Map](http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811)(Example pinned on Slack)
+	* [Mind Map](http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811) (Example pinned on Slack)
 	* [SCAMPER Technique](http://www.mindtools.com/pages/article/newCT_02.htm)
 	* [Card Sorting Technique](card_sorting.md)
 	* [Storytelling Exercise](storytelling_exercise.md)
