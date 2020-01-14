@@ -1,5 +1,9 @@
 ### DM-UY 4003 Senior Project in Digital Media • Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay Street, Room 311
 
+---
+![Keep Going!](http://teaching.polishedsolid.com/images/gettoworkbook_keep_going.png) 
+*Illustration by Jolby from gettoworkbook*
+
 # Project Demo
 
 Project Demos will be held on designated Mondays, and will consist of the professor, ALL students, and outside critics, at times. 

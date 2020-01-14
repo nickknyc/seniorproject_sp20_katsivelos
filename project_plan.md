@@ -1,6 +1,9 @@
 ##### DM-UY 4003 Senior Project in Digital Media • Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay St Rm 311
 
 ---
+![Forget Perfect. Make Progress!](http://teaching.polishedsolid.com/images/gettoworkbook_forget_perfect.png) 
+*Illustration by Jolby from gettoworkbook*
+
 # Project Plan
 
 The project plan will consist of a presentation and a written proposal.

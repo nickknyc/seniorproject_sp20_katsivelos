@@ -2,7 +2,6 @@
 
 ---
 ![Start at the beginning](http://teaching.polishedsolid.com/images/gettoworkbook_start_at_the_beginning.png) 
-
 *Illustration by Jolby and Friends from gettoworkbook*
 
 ## Senior Project Pre-work  
