@@ -1,6 +1,8 @@
 ##### DM-UY 4003 Senior Project in Digital Media • Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay St Rm 311
 
 ---
+![Big Things Happen One Day At A Time](http://teaching.polishedsolid.com/images/gettoworkbook_big_things.png) 
+*Illustration by Jolby from gettoworkbook*
 
 ## Calendar
 <strong><i>ALL dates and assignments are subject to change at the discretion of the professor!</i></strong> If applicable, means it depends on where you are in your process. Every project is different certain aspects of your project may take more or less time than others. 

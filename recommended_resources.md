@@ -1,8 +1,12 @@
 ##### DM-UY 4003 Senior Project in Digital Media • Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay St Rm 311
 
 ---
+![Everyone Starts at Zero](http://teaching.polishedsolid.com/images/gettoworkbook_at_zero.png) 
+*Illustration by Jolby from gettoworkbook*
 
-## Recommended Websites
+## Recommended Resources
+
+### Recommended Websites
 
 *Presentation*
 
@@ -10,7 +14,7 @@
 * [Advice on Public Speaking from Zach Lieberman](https://medium.com/@zachlieberman/advice-on-public-talks-a984876388c2)
 * [Jer Thorp, Three things I&#8217;ve learned from 18 years of public speaking](https://medium.com/@blprnt/the-three-things-i-learned-from-eighteen-years-of-public-speaking-875f01178902) 
 
-## Recommended Books
+### Recommended Books
 
 *Creativity*
 
