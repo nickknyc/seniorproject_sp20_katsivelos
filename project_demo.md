@@ -41,7 +41,7 @@ examine design problems.
 * Evaluate whether the prototype gives you the feedback you require to transform or move forward with your project.
 
 ### Invite guests
-You are always welcome to invite an outside critic to your project demos or project presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc.  
+It is the responsibility of each senior to invite an outside critic to *at least* one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting (date, time, length, and typed notes) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. 
 
 ### Document your feedback
-Always document the feedback you receive on your [process website](website.md) after any critique. This critique feedback post should include images of the current status of your project (prototype or version), a description of your project progress as it currently stands and discussion of the feedback your received from the critique. How will this feedback improve your work and ideas? 
+Always document any feedback you receive on your [process website](website.md) after any critique. This critique feedback post should include images of the current status of your project (prototype or version), a description of your project progress as it currently stands and discussion of the feedback your received from the critique. How will this feedback improve your work and ideas? 

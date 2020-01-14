@@ -98,6 +98,9 @@ By the end of the course, students will be able to develop, complete, and docume
 
 Students are expected to be on time for all individual meetings, critiques, project demos, and presentations. 
 
+* **Outside critic**
+  It is the responsibility of each senior to invite an outside critic to *at least* one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting (date, time, length, and typed notes) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. Document the feedback that you receive on your [process website](website.md).
+
 This class will consist of 
 * **Individual Meetings**
 Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. Also, have any required documents ready, as well.
@@ -120,7 +123,6 @@ Be prepared to present and discuss your work at your appointed time. Students sh
     * What is confusing or needs more clarification about the project?
     * What are ways that the project can be improved?
     * What additional references, resources, projects, and/or links that would be useful for the project?
-
 
 ### Required Readings
 * [Do The Work!](http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
