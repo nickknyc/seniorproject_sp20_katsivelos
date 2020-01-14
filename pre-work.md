@@ -1,8 +1,7 @@
 ##### DM-UY 4003 Senior Project in Digital Media • Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay St, Rm 311
 
 ---
-![Start at the beginning](http://teaching.polishedsolid.com/images/gettoworkbook_start_at_the_beginning.png)
-*Illustration by Jolby and Friends*
+![Start at the beginning](http://teaching.polishedsolid.com/images/gettoworkbook_start_at_the_beginning.png) *Illustration by Jolby and Friends*
 
 ## Senior Project Pre-work  
 * Read the [syllabus](syllabus.md) and be prepared to discuss and ask questions on first day of class.  
