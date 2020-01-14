@@ -179,14 +179,13 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 ##### Quantitative Grading Overview
 
 * 15% Weekly submissions to [process website](website.md)
-* 20% Final Project 
-    * 10% [Project Plan and its revisions](project_plan.md)
-    * 10% [Project Development](project_plan.md)
-* 25% Critiques, Demos, Presentations & Exhibition
+* 20% Critiques, Demos, Presentations & Exhibition
     * 10% [Project Demos and Critiques](project_demo.md)
     * 05% [Midterm Demo and Critique](project_demo.md)
-    * 05% [End Of Semester Public Presentation](end_of_semester_presentation.md)
     * 05% [Exhibiting your senior project in the IDM Student Showcase](idm_showcase.md)
+* 30% Final Project 
+    * 15% [Project Plan and its revisions](project_plan.md)
+    * 15% [Project Development](project_plan.md)
 * 40% [End of Semester Documentation and Deliverables](end_of_semester_deliverables.md)   
     * 10% [End of Semester Process PDF](pdf_or_book.md)
     * (OPTIONAL) [End of Semester Process Book for EXTRA CREDIT (raise final grade by half a letter grade)](pdf_or_book.md)
