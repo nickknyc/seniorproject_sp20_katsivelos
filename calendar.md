@@ -68,6 +68,9 @@
     </td> 
 </tr>
 <tr>
+    <td>Fri, Feb 04</td>
+    <td colspan="2"><strong><a href="https://tisch.nyu.edu/itp/events/spring-2020/ima-games-idm-career-fair" target="_blank">IMA/Games/IDM Career Fair!</a></strong></td>
+<tr>
     <td>Mon Feb 17</td>
     <td colspan="2"><strong>President's Day / University Holiday - NO Classes</strong></td>
 </tr>
