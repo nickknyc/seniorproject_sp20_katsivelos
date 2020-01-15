@@ -58,10 +58,10 @@ Excerpt from the book *Anything You Want* by Derek Sivers
 
 How are you currently feeling about your Senior Project? 
 * Yes. 
-* Hell Yeah! or 
+* Absolutely, Yes! or 
 * No:( 
 
-If you are NOT feeling “Hell Yeah!” about your senior project, remember your project idea is just that YOURS. I highly suggest you read "What is Senior Project in Digital Media?", again, AND the required and recommended resources NOW!
+If you are NOT feeling “Absolutely, Yes!” about your senior project, remember your project idea is just that YOURS. I highly suggest you read "What is Senior Project in Digital Media?", again, AND the required and recommended resources NOW!
 
 Senior Project is about the work YOU are and will continue to do, when you are no longer a student. You don’t need anyone to whip you to work because you can NOT, not do it. You will live, eat, breath, and sleep with this project. It is NOT about doing a project for a class or pleasing the IDM faculty. It is about you, your ideas, your concerns, your questions and your passion.
 
