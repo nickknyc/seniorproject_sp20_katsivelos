@@ -66,15 +66,15 @@
 
 ### Time Management &amp; Productivity Resources 
 
-*Time Management*
+*Tools*
 
 Hope these resources help. They've helped me, but the secret is discipline, focus, and prioritizing (which requires not doing something else). No system is a magic cure. A system only works if you use it daily.
+* [Get To Work Book](http://gettoworkbook.com) or [Bullet Journal](https://bulletjournal.com)
 * [Personal Kanban](http://www.personalkanban.com)
 * [RescueTime](http://rescuetime.com) 
 * [Zapier](http://zapier.com)
 
 *The 12 Week Year*
-
 * [The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234/ref=sr_1_1?crid=2XGNL8WLOA3UK&keywords=12+week+year&qid=1578346745&s=books&sprefix=12+week+%2Cstripbooks%2C128&sr=1-1) by Brian P. Moran &amp; Michael Lennington
 
 *Eat That Frog!*
@@ -88,7 +88,7 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 *Personal Kanban*
 * [Personal Kanban: Mapping Work | Navigating Life](http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266/ref=sr_1_1?s=books&ie=UTF8&qid=1358043876&sr=1-1&keywords=personal+kanban) by Jim Benson and Tonianne DeMaria Barry 
 
-*The Pomodoro Technique*
+*Pomodoro Technique*
 * [Pomodoro Technique Illustrated: Can You Focus - Really Focus - for
 25 Minutes?](http://www.amazon.com/Pomodoro-Technique-Illustrated-Minutes-Pragmatic/dp/1934356506/ref=sr_1_1?s=books&ie=UTF8&qid=1358372303&sr=1-1) by Staffan Noteberg
 
@@ -119,9 +119,10 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 ### Writing
 
+* [Copywriting: Successful Writing for Design, Advertising and Marketing](https://www.amazon.com/Copywriting-Successful-Writing-Advertising-Marketing/dp/1780670001/ref=sr_1_5?s=books&ie=UTF8&qid=1516899375&sr=1-5&keywords=copywriting) by Mark Shaw
 * [The Elements of Style, Fourth Edition](http://www.amazon.com/Elements-Style-Fourth-William-Strunk/dp/020530902X/ref=sr_1_1?ie=UTF8&qid=1422276317&sr=8-1&keywords=stunk+and+whites+elements+of+style) by Strunk and White
 * [The Mac is Not a Typewriter](http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr_1_1?ie=UTF8&qid=1422276493&sr=8-1&keywords=the+mac+is+not+a+typewriter) by Robin Williams
-* [Copywriting: Successful Writing for Design, Advertising and Marketing](https://www.amazon.com/Copywriting-Successful-Writing-Advertising-Marketing/dp/1780670001/ref=sr_1_5?s=books&ie=UTF8&qid=1516899375&sr=1-5&keywords=copywriting) by Mark Shaw
+
 
 
 
