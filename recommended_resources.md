@@ -25,8 +25,6 @@
 
 * [Keep Going: 10 Ways to Stay Creative in Good Times and Bad](https://www.amazon.com/Keep-Going-Ways-Creative-Times/dp/1523506644/ref=sr_1_1?keywords=austin+kleon&qid=1578346637&sr=8-1) by Austin Kleon ([Cheat Sheet](https://miro.medium.com/max/2048/1*Sz1lQkqKnhcWjcmy4xaxNA.jpeg))
 
-* [Show Your Work!](http://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?ie=UTF8&qid=1420589663&sr=8-1&keywords=show+the+work+austin+kleon) by Austin Kleon ([Cheat Sheet](https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/hostedimages/1384352860i/6856374._SY540_.jpg))
-
 * [Steal Like An Artist: 10 Things Nobody Told You About Being Creative](http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/ref=sr_1_1?ie=UTF8&qid=1422468736&sr=8-1&keywords=steal+like+an+artist) by Austin Kleon ([Cheat Sheet](https://bbinno.files.wordpress.com/2016/04/steal2.png?w=736))
 
 * [The Rise: Creativity, the Gift of Failure, and the Search for Mastery](https://www.amazon.com/Rise-Creativity-Failure-Search-Mastery/dp/1451629249/ref=sr_1_1?keywords=sarah+lewis&qid=1578348223&sr=8-1) by Sarah Lewis
@@ -45,10 +43,6 @@
 
 * [Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered ](http://www.amazon.com/Show-Your-Work-Creativity-Discovered/dp/076117897X/ref=sr_1_1?ie=UTF8&qid=1440022873&sr=8-1&keywords=show+your+work) by Austin Kleon
 
-### Ideation / Brainstorming
-
-* [Steal Like An Artist: 10 Things Nobody Told You About Being Creative](http://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253/ref=sr_1_1?ie=UTF8&qid=1422468736&sr=8-1&keywords=steal+like+an+artist) by Austin Kleon
-* [Everything is a Remix](http://www.everythingisaremix.info/)
 
 ### Inspiration
 
@@ -68,9 +62,6 @@
 * [Speaking.io](http://speaking.io)
 * [Advice on Public Speaking from Zach Lieberman](https://medium.com/@zachlieberman/advice-on-public-talks-a984876388c2)
 * [Jer Thorp, Three things I&#8217;ve learned from 18 years of public speaking](https://medium.com/@blprnt/the-three-things-i-learned-from-eighteen-years-of-public-speaking-875f01178902) 
-
-
-
 
 
 ### Time Management &amp; Productivity Resources 
