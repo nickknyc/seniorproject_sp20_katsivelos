@@ -1,6 +1,8 @@
 ##### DM-UY 4003 Senior Project in Digital Media • Spring 2020 • De Angela L. Duff • Mondays • 12:30-2:20PM • 370 Jay St Rm 311
 
 ---
+![Everyone Starts at Zero](http://teaching.polishedsolid.com/images/gettoworkbook_something.png) 
+*Illustration by Jolby from gettoworkbook*
 
 ## Personal Kanban / Project Milestones
 **Break down** EVERYTHING you need to do for **your project into actionable tasks** using [Personal Kanban](http://personalkanban.com/pk/personal-kanban-101/). All actionable tasks should start with a verb (i.e. write, call, email, build, collect, etc.). 
