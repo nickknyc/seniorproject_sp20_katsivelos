@@ -42,6 +42,7 @@
     </ul>
     </td><td>
     <ul>
+    <li>Class discussion of reading</li> 
     <li><a href="pecha_kucha.md">Pecha kucha presentation revisions</a> (if applicable)</li> 
     </ul>
     </td> 
@@ -60,8 +61,9 @@
     </ul>
     </td><td>
     <ul>
+    <li>Class discussion of reading</li> 
     <li>Select accountability partners</li>
-    <li>Group critique: deliverables</li>
+    <li>Group critique: <a href="project_plan.md">research and design</a></li>
     </ul>
     </td> 
 </tr>
@@ -79,7 +81,7 @@
     </td><td>
     <ul>
     <li>Review <a href="http://personalkanban.com" target="_blank">Personal Kanban</a>, a visual representation of your milestones</li>
-    <li>Group critique: deliverables</li>
+    <li>Group critique: <a href="project_plan.md">research and design</a></li>
     <li>Check-in with your accountability partner.</li>
     </ul>
     </td> 
@@ -168,6 +170,7 @@
     </ul>  
 ​    </td><td>
     <ul>
+    <li>Class discussion of reading</li> 
     <li>Group critique: <a href="pro_practices_revisions">Pro practices materials</a></li>
     <li>Check-in with your accountability partner.</li>
     </ul></td>
@@ -233,9 +236,8 @@
     </ul>
     </td><td><strong><i>LAST DAY OF SPRING 2020 CLASSES</i></strong><br><br>
     <ul>
-    <li>Class Critique (if applicable): 
-        <ul>
-            <li><a href="project_plan.md">Project Demo of Gold Version Revision</a></li></ul>
+    <li>Class discussion of reading</li> 
+    <li>Class Critique: <a href="project_plan.md">Project Demo of Gold Version Revision</a> (if applicable)</li>
     </ul> 
     </ul></td>
 </tr>
