@@ -132,7 +132,7 @@ Be prepared to present and discuss your work at your appointed time. Students sh
 
 * Direct message the professor on Slack about logistics (when, where, how many?) ONLY
 * Talk to the professor directly after class, during one of your one-on-one meetings, or set up an appointment at http://calendly.com/deangela about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
-* Please be aware that I currently have a split position at NYU and, as a result, I have two different offices: one in 370 Jay and one at Bobst Library on the WSQ campus. My schedule varies from week to week, but, once school begins, most weeks, I will be at 370 Jay on Mondays and Thursdays. On other days and times, before and during the semester, I will be at Bobst.
+* Please be aware that I currently have a split position at NYU and, as a result, I have two different offices: one in 370 Jay and one at Bobst Library on the WSQ campus. My schedule varies from week to week, but, once school begins, most weeks, I will be at 370 Jay on Mondays and Thursdays. On other days and times, before and during the semester, I will be at Bobst more often than not.
 
 
 ### Student Responsibilities
