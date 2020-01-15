@@ -10,7 +10,7 @@
 
 *   [Revision Path](https://itunes.apple.com/us/podcast/revision-path/id834173190?mt=2) Maurice Cherry interviews designers, developers, and other creators of color weekly.
 *   [The Tim Ferriss Show](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) Tim Ferriss deconstructs world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use. This includes favorite books, morning routines, exercise habits, time-management tricks, and much more.
-  * I suggest listening to Derek Sivers, Debbie Millman, and David Heinemeier Hansson
+	* I suggest listening to Derek Sivers, Debbie Millman, and David Heinemeier Hansson
 *   [Unmistakeable Creative](https://itunes.apple.com/us/podcast/unmistakable-creative/id352721366?mt=2) Srini Rao interviews instigators, rebels, and people with a pathological inability to accept the status quo.
 * [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)
 * [State of the Art](https://itunes.apple.com/us/podcast/state-of-the-art/id1305467447?mt=2)
@@ -86,25 +86,13 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [The 12 Week Year: Get More Done in 12 Weeks than Others Do in 12 Months](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234/ref=sr_1_1?crid=2XGNL8WLOA3UK&keywords=12+week+year&qid=1578346745&s=books&sprefix=12+week+%2Cstripbooks%2C128&sr=1-1) by Brian P. Moran &amp; Michael Lennington
 
-*The Now Habit*
-
-* [The Now Habit](http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/1585425524/ref=sr_1_1?ie=UTF8&qid=1420844824&sr=8-1&keywords=neil+fiore) by Neil Fiore
-* [Neil Fiore’s Unschedule on lifeclever.com](http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play)
-* [Neil Fiore’s Sample Unschedule (I suggest a modified version of this as we will discuss](http://www.neilfiore.com/nowhabit-schedule.shtml)
+*Eat That Frog!*
+* [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time by Brian Tracy](http://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227/ref=sr_1_1?s=books&ie=UTF8&qid=1358357240&sr=1-1)
 
 *Getting Things Done* (GTD) is more complicated but I use a lot of the techniques in conjunction with Personal Kanban.
 * [Getting Things Done: The Art of Stress-Free Productivity](http://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0142000280/ref=sr_1_1?ie=UTF8&qid=1420844841&sr=8-1&keywords=getting+things+done) by David Allen
 * [43 Folders (All things GTD by Merlin Mann)](http://www.43folders.com)
 * [Productive Talk Compilation: 8-episode audio podcast with GTD’s David Allen](http://www.43folders.com/2006/11/28/productive-talk-comp)
-
-*The 7 Habits of Highly Effective People*
-* [The 7 Habits of Highly Effective People](http://www.amazon.com/7-Habits-Highly-Effective-People/dp/0935721800/ref=sr_1_2?ie=UTF8&qid=1420844862&sr=8-2&keywords=7+habits+of+highly+effective+people) by Stephen Covey
-
-*Time Warrior*
-* [Time Warrior: How to defeat procrastination, people-pleasing, self-doubt, over-commitment, broken promises and chaos](http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment/dp/1600250378/ref=sr_1_1?s=books&ie=UTF8&qid=1312385159&sr=1-1) by Steven Chandler
-
-*Eat That Frog!*
-* [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time by Brian Tracy](http://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/1576754227/ref=sr_1_1?s=books&ie=UTF8&qid=1358357240&sr=1-1)
 
 *Personal Kanban*
 * [Personal Kanban: Mapping Work | Navigating Life](http://www.amazon.com/Personal-Kanban-Mapping-Work-Navigating/dp/1453802266/ref=sr_1_1?s=books&ie=UTF8&qid=1358043876&sr=1-1&keywords=personal+kanban) by Jim Benson and Tonianne DeMaria Barry 
@@ -119,8 +107,23 @@ Hope these resources help. They've helped me, but the secret is discipline, focu
 
 * [PomodoroFox](https://addons.mozilla.org/en-US/firefox/addon/pomodorofox)
 
-*Managing Energy, Not Time*
+*The 7 Habits of Highly Effective People*
+* [The 7 Habits of Highly Effective People](http://www.amazon.com/7-Habits-Highly-Effective-People/dp/0935721800/ref=sr_1_2?ie=UTF8&qid=1420844862&sr=8-2&keywords=7+habits+of+highly+effective+people) by Stephen Covey
+
+*The Now Habit*
+
+* [The Now Habit](http://www.amazon.com/Now-Habit-Overcoming-Procrastination-Guilt-Free/dp/1585425524/ref=sr_1_1?ie=UTF8&qid=1420844824&sr=8-1&keywords=neil+fiore) by Neil Fiore
+* [Neil Fiore’s Unschedule on lifeclever.com](http://www.lifeclever.com/how-to-unschedule-your-work-and-enjoy-guilt-free-play)
+* [Neil Fiore’s Sample Unschedule (I suggest a modified version of this as we will discuss](http://www.neilfiore.com/nowhabit-schedule.shtml)
+
+
+*The Power of Full Engagement*
 * [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal by Jim Loehr & Tony Schwartz](http://www.amazon.com/The-Power-Full-Engagement-Performance/dp/0743226755/ref=sr_1_5?ie=UTF8&qid=1358355636&sr=8-5&keywords=tony+schwartz)
+
+*Time Warrior*
+* [Time Warrior: How to defeat procrastination, people-pleasing, self-doubt, over-commitment, broken promises and chaos](http://www.amazon.com/Time-Warrior-procrastination-people-pleasing-over-commitment/dp/1600250378/ref=sr_1_1?s=books&ie=UTF8&qid=1312385159&sr=1-1) by Steven Chandler
+
+
 
 
 ### Writing
