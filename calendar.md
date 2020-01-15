@@ -203,8 +203,6 @@
 ​    <td>Wk 12 Mon Apr 27</td>
 ​    <td>
     <ul>
-    <li>Direct message deangela on slack <strong>a flyer to promote your senior project public presentation on 370 Jay screens and BxMC facebook page</strong>.</li>
-    <li>Prepare <a href="end_of_semester_deliverables.md">End of Semester Public Presentation</a></li>
     <li>Continue to <a href="project_plan.md">develop the project itself and iterate the research, design, resources, and milestones</a> of your project.</a></li> 
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
