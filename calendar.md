@@ -218,7 +218,6 @@
     <td>Wk 13 Mon May 04</td>
     <td>
     <ul>
-    <li>Iterate <a href="end_of_semester_deliverables.md">End of Semester Public Presentation</a> (if applicable)</li>
     <li>Continue to <a href="project_plan.md">develop the project itself and iterate the research, design, resources, and milestones</a> of your project.</a></li> 
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
@@ -226,7 +225,6 @@
     <ul>
     <li>Class Critique (if applicable): 
         <ul>
-            <li><a href="end_of_semester_deliverables.md">End of Semester Public Presentation Revision</a></li>  
             <li><a href="project_plan.md">Project Demo of Gold Version Revision</a></li></ul>
     </ul>    
     </td> 
@@ -236,12 +234,15 @@
     <td>     
     <ul>
     <li>Read from "End" chapter of <i>Do The Work</i> by Steven Pressfield (6 min) and post your <a href="responses.md">response</a> to your process website.</li>
-    <li>Iterate <a href="end_of_semester_deliverables.md">End of Semester Public Presentation</a></li>
+    <li>Continue to <a href="project_plan.md">develop the project itself and iterate the research, design, resources, and milestones</a> of your project.</a></li> 
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
     </td><td><strong><i>LAST DAY OF SPRING 2020 CLASSES</i></strong><br><br>
     <ul>
-    <li><strong><a href="end_of_semester_presentation.md">End of Semester Public Presentations</a> Location TBD (Attendance is MANDATORY for the entire X hours!)</strong></li>
+    <li>Class Critique (if applicable): 
+        <ul>
+            <li><a href="project_plan.md">Project Demo of Gold Version Revision</a></li></ul>
+    </ul> 
     </ul></td>
 </tr>
 <tr>

@@ -61,7 +61,7 @@ How are you currently feeling about your Senior Project?
 * Hell Yeah! or 
 * No:( 
 
-If you are NOT feeling “Hell Yeah!” about your senior project, remember your project idea is just that YOURS. I highly suggest you read "What is Senior Project in Digital Media?", again, AND the required and recommended readings NOW!
+If you are NOT feeling “Hell Yeah!” about your senior project, remember your project idea is just that YOURS. I highly suggest you read "What is Senior Project in Digital Media?", again, AND the required and recommended resources NOW!
 
 Senior Project is about the work YOU are and will continue to do, when you are no longer a student. You don’t need anyone to whip you to work because you can NOT, not do it. You will live, eat, breath, and sleep with this project. It is NOT about doing a project for a class or pleasing the IDM faculty. It is about you, your ideas, your concerns, your questions and your passion.
 
@@ -131,7 +131,7 @@ Be prepared to present and discuss your work at your appointed time. Students sh
 ### Communicating With The Professor Outside Of Class
 
 * Direct message the professor on Slack about logistics (when, where, how many?) ONLY
-* Talk to the professor directly after class, during your status meeting, or set up an appointment at http://calendly.com/deangela about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
+* Talk to the professor directly after class, during one of your one-on-one meetings, or set up an appointment at http://calendly.com/deangela about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
 
 
 ### Student Responsibilities
@@ -160,7 +160,7 @@ Be prepared to present and discuss your work at your appointed time. Students sh
 
 ### Self Assessments
 
-Students will conduct **self assessments** as well as be evaluated by the professor at midterm and the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
+Students will conduct **self assessments** as well as be evaluated by the professor at midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
 
 
 ### Evaluation & Grading

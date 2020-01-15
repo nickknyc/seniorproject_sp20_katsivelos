@@ -107,7 +107,7 @@ Please remember that you and a classmate can work as a team. Only one presentati
 </tr>
 <tr>
     <td><strong>Research</strong></td>        
-    <td>Including, but not limited to, brainstorming (<a href="card_sorting.md">card sorting technique</a>, <a href="http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811" target="_blank">mind maps</a>, <a href="http://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER technique</a>, <a href="storytelling_exercise.md">storytelling exercise</a>, word lists, etc.), readings, screenings / viewings, exhibitions, talks, tech research, material research, visual research, collection, interviews, observation, etc.
+    <td>Including, but not limited to, brainstorming (<a href="card_sorting.md">card sorting technique</a>, <a href="http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811" target="_blank">mind maps</a> (see example pinned on slack), <a href="http://www.mindtools.com/pages/article/newCT_02.htm" target="_blank">SCAMPER technique</a>, <a href="storytelling_exercise.md">storytelling exercise</a>, word lists, etc.), readings, screenings / viewings, exhibitions, talks, tech research, material research, visual research, collection, interviews, observation, etc.
         <ul>
         <li>You should decide what kinds of research / reference / influences is most appropriate for your project.</li>
         </ul>
