@@ -28,7 +28,7 @@
 	* [SCAMPER Technique](http://www.mindtools.com/pages/article/newCT_02.htm)
 	* [Card Sorting Technique](card_sorting.md)
 	* [Storytelling Exercise](storytelling_exercise.md)
-	* Read or watch one or more of the [recommended resources](recommended_resources.md) under "creativity" 
+	* Read or watch one or more of the [recommended resources](recommended_resources.md) under "creativity" or "audio podcasts"
 	* Browse one or more of the "inspiration" links in [recommended resources](recommended_resources.md)
 
 

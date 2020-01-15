@@ -4,9 +4,22 @@
 ![Everyone Starts at Zero](http://teaching.polishedsolid.com/images/gettoworkbook_at_zero.png) 
 *Illustration by Jolby from gettoworkbook*
 
-### Recommended Resources
+## Recommended Resources
 
-#### Creativity
+### Recommended Audio Podcasts
+
+*   [Revision Path](https://itunes.apple.com/us/podcast/revision-path/id834173190?mt=2) Maurice Cherry interviews designers, developers, and other creators of color weekly.
+*   [The Tim Ferriss Show](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) Tim Ferriss deconstructs world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use. This includes favorite books, morning routines, exercise habits, time-management tricks, and much more.
+  * I suggest listening to Derek Sivers, Debbie Millman, and David Heinemeier Hansson
+*   [Unmistakeable Creative](https://itunes.apple.com/us/podcast/unmistakable-creative/id352721366?mt=2) Srini Rao interviews instigators, rebels, and people with a pathological inability to accept the status quo.
+* [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)
+* [State of the Art](https://itunes.apple.com/us/podcast/state-of-the-art/id1305467447?mt=2)
+*   [StartUp Podcast](https://itunes.apple.com/us/podcast/startup-podcast/id913805339?mt=2) StartUp is a podcast series about what it’s really like to get a business off the ground.
+    *   In Season 1, Alex Blumberg told the story of launching this business, Gimlet Media, a podcast network.
+    *   In Season 2, Lisa Chow joined Alex to follow an entirely new company: a company called Dating Ring, founded by two women in their 20s, outsiders in the male-dominated world of Silicon Valley.
+    *   In Season 3, rather than following one company over many episodes, they are telling stories about many companies that all have something in common: their companies are stuck, and they know they need to make a big change.
+
+### Creativity
 
 * [Everything is a remix](https://www.everythingisaremix.info/watch-the-series) by Kirby Ferguson
 
@@ -58,18 +71,7 @@
 
 
 
-### Recommended Audio Podcasts
 
-*   [Revision Path](https://itunes.apple.com/us/podcast/revision-path/id834173190?mt=2) Maurice Cherry interviews designers, developers, and other creators of color weekly.
-*   [The Tim Ferriss Show](https://itunes.apple.com/us/podcast/the-tim-ferriss-show/id863897795?mt=2) Tim Ferriss deconstructs world-class performers from eclectic areas (investing, sports, business, art, etc.) to extract the tactics, tools, and routines you can use. This includes favorite books, morning routines, exercise habits, time-management tricks, and much more.
-  * I suggest listening to Derek Sivers, Debbie Millman, and David Heinemeier Hansson
-*   [Unmistakeable Creative](https://itunes.apple.com/us/podcast/unmistakable-creative/id352721366?mt=2) Srini Rao interviews instigators, rebels, and people with a pathological inability to accept the status quo.
-* [How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)
-* [State of the Art](https://itunes.apple.com/us/podcast/state-of-the-art/id1305467447?mt=2)
-*   [StartUp Podcast](https://itunes.apple.com/us/podcast/startup-podcast/id913805339?mt=2) StartUp is a podcast series about what it’s really like to get a business off the ground.
-    *   In Season 1, Alex Blumberg told the story of launching this business, Gimlet Media, a podcast network.
-    *   In Season 2, Lisa Chow joined Alex to follow an entirely new company: a company called Dating Ring, founded by two women in their 20s, outsiders in the male-dominated world of Silicon Valley.
-    *   In Season 3, rather than following one company over many episodes, they are telling stories about many companies that all have something in common: their companies are stuck, and they know they need to make a big change.
 
 ### Time Management &amp; Productivity Resources 
 
