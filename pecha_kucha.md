@@ -28,7 +28,7 @@ This is your opportunity to start the semester off with momentum and make a real
 * **MOTIVATION**: Who or what is the motivation behind your senior project focus? Why are you doing this project? What are you exploring or discovering here? What questions are you asking? Do you love your ideas? Does it feel right on instinct? Are you willing to commit to this project? Are you willing to live, sleep, and eat with this project?
 * **THEME(s)/CONCEPT(s)**: What are your project's theme(s) or conceptual underpinnings? (Think 1 to 3 hashtags.)
 * **ELEVATOR PITCH**: What is your project's "elevator pitch"? Think phrase or 1 sentence maximum WITHOUT referring to a medium of delivery (i.e. XR, UX, app, installation, etc). What is your project about?
-* **THREE ACT STRUCTURE**: What is your project's 3-act structure? Reference the reading from *Do The Work* by Steven Pressfield.
+* **THREE ACT STRUCTURE**: What is your project's 3-act structure? Reference the reading from *Do The Work* by Steven Pressfield. If you have watched the watchmen tv series, it's 3-act structure could be: Who is hiding behind the masks and why?, understanding Angela's and her grandfather's nostalgia/trauma, and transferring Dr. Manhattan's power.
 * **TARGET AUDIENCE**: Who is this project for? Please note that everyone is not a valid answer. Target is the key word here. Who cares? Who *will* care? Who is your target audience? What do you want your target audience to experience when they interact with your project?
 * **(OPTIONAL) BRAINSTORMING DOCUMENTATION**: 
 	* [Card Sorting](card_sorting.md)
