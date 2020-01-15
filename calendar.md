@@ -203,7 +203,8 @@
 ​    </td><td>
     <ul>
     <li>Class Critique: <a href="project_plan.md">Project Demo of Gold Version</a> (if applicable)</li>
-    </ul>
+    <li>Check-in with your accountability partner.</li>
+</ul>
 ​    </td>
 </tr>
 <tr>
@@ -216,7 +217,8 @@
 ​    </td><td>
     <ul> 
     <li>Class Critique: <a href="project_plan.md">Project Demo of Gold Version Revision</a> (if applicable)</li>
-​    </ul></td>
+​    <li>Check-in with your accountability partner.</li>
+</ul></td>
 </tr>
 <tr>
     <td>Wk 13 Mon May 04</td>
@@ -228,7 +230,7 @@
      </td><td>
     <ul>
     <li>Class Critique: <a href="project_plan.md">Project Demo of Gold Version Revision</a>  (if applicable)</li>
-    </ul>
+    <li>Check-in with your accountability partner.</li></ul>
     </td> 
 </tr>
 <tr>
@@ -243,7 +245,7 @@
     <ul>
     <li>Class discussion of reading</li> 
     <li>Class Critique: <a href="project_plan.md">Project Demo of Gold Version Revision</a> (if applicable)</li>
-    </ul> 
+    <li>Check-in with your accountability partner.</li></ul> 
     </ul></td>
 </tr>
 <tr>
