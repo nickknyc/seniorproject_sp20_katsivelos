@@ -207,8 +207,7 @@
     <li><a href="website.md">Document</a> your process and project.</li>
     </ul>
 ​    </td><td>
-    <ul>
-    <li>Class Critique: <a href="end_of_semester_deliverables.md">End of Semester Public Presentation</a></li>  
+    <ul> 
     <li>Class Critique: <a href="project_plan.md">Project Demo of Gold Version Revision</a> (if applicable)</li>
 ​    </ul></td>
 </tr>
