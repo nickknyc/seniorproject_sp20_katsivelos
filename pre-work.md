@@ -16,8 +16,8 @@
 	* About this Book preface
 	* Orientation: Enemies & Allies
 	* Beginning
-	
-	* AFTER reading the preface and the first two chapters in *Do The Work*, write a [response](responses.md) which also contains a list of your enemies and allies and upload to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md). You do not have to post this to the process website so that only you and I can read your response.
+* AFTER reading the preface and the first two chapters in *Do The Work*: 
+	* Write a [response](responses.md) which also contains a list of your enemies and allies and upload to a folder labeled "Pre-work" in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md). You do not have to post this to the process website so that only you and I can read your response.
 
 * Listen to the first [watchmen tv series podcast](https://www.hbo.com/watchmen/watchmen-listen-to-official-podcast), Masks, for episodes 1-3 (57 min) to hear about writer Damon Lindelof's process. The point of listening is NOT to learn about the watchmen but to understand his creative process in developing the tv series and how his team went about researching and making creative decisions. You don't need to watch the series because again you're not listening to this to learn about watchmen. I want you to hear how Lindelof's "inputs" (remember ideation &amp; prototyping) help him create.
 	* AFTER listening to the podcast, write a [response](responses.md). Identify *at least* 3 "inputs" for Lindelof in creating watchmen, NOT including the original graphic novel. Identify *at least* 3 "inputs" for your senior project. Post to your [process website](website.md) and post a link to it on this [google doc](https://docs.google.com/document/d/1wHaH_ytbwvz8WO1-h-0mByGPXTLDCKLRHbA8N-UfVBc/edit?usp=sharing). 
