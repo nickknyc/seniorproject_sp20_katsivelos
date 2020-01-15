@@ -16,18 +16,18 @@ You should have a **dedicated**, senior project website to document your **daily
 * If you do not do anything for the week, write **I did not work on my senior project this week.** You will still get credit as opposed to not posting anything at all.
 * The majority of the posts should be your own writing (well-composed and proofread for impeccable spelling and grammar).
 * Make sure to use tags so that you can group certain kinds of info.
-  * Milestones / tasks that have been completed (either transcribed or linked from your personal kanban or a screenshot or photo).
+  * [Milestones / tasks](personal_kanban.md) that have been completed (either transcribed or linked from your personal kanban or a screenshot or photo).
   * Include who or what was involved.
   * Include project progress and prototyping documentation: images, illustrations, audio, video, code, snippets of research, ANNOTATED links, etc. relevant to your thesis. 
   * Accountability partner meeting notes.
-  * Summaries of interviews and meetings about your project.
+  * Document any feedback from interviews, meetings, exhibitions, or presentations about your project.
   * pdfs of any presentations (annotated).
   * Notes taken about your project, prototypes, and presentations by you or your accountability partner.
   * Notes on problems, challenges or questions that have arisen in your project development. Discuss what is and what is not working.
   
 
 * *Sourced & Annotated Research / Reference / Inspiration* 
-  * Research: If you found projects, books, articles or other research materials that help with your chosen topic or you conducted materials, tech, or visual research, provide a link to them (if applicable), photo or video documentation (if applicable), and a short written description of it and how you will use this research for your project.
+  * Research: If you found projects, books, articles, exhibitions, talks. or other research materials that help with your chosen topic or you conducted materials, tech, or visual research, provide a link to them (if applicable), photo or video documentation (if applicable), and a short written description of it and how you will use this research for your project.
   * Sourced means where did you get this from? if it is a website, provide a link. If it is a book, provide a bibliography. If it is an image, where did you get it from? If it is a quote, who said it or who did you poll or interview?
   * Annotated means with notes. You don’t have to write a novel. 1 to 2 thoughtful, contextual sentences is more than enough. So, “This was inspirational,” would not be a good note as it provides no context for your thesis. However, “This book discusses how nostalgia is a useless emotion because nostalgia is based on the past. This point of view is antithetical to my thesis because I’m trying to demonstrate how the sentimentality of nostalgia is valuable to the human experience.” is a viable note.)
 
