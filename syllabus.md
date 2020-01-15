@@ -200,17 +200,18 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 
 ##### Qualitative Grading Overview
 
-You will be judged on the quality, relevance, iteration, completion, and presentation of your senior project work. 
+Each student will be judged on the iteration &amp; improvement (process), craft &amp; completion (execution), and documentation &amp; presentation of their senior project work. 
 
-* **A Excellent** (Work of exceptional creativity & craft which utilizes feedback on the road to mastery; Exceeds Expectations)
-* **A- Very Good** (Work of high quality)
-* **B+ Good** (Solid work; Meets Expectations)
-* **B Satisfactory** (Good work; Satisfies course requirements)
-* **B- Needs Improvement**  (Below average work)
-* **C+ Poor Work** (Well Below Average)
-* **C Inadequate** (Less than adequate work)
-* **F Unacceptable** (The performance and/or attendance of the student has failed course requirements.)
-
+* **A Excellent** 
+Process, execution, documentation &amp; presentation, and attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, pursues concepts and techniques above and beyond what is discussed in class, exceeding expections.
+* **B Very Good / Good** 
+Process, execution, documentation &amp; presentation, and attendance of students has been, good, though not of the highest level. Work demonstrates a better than average sensitivity to senior project and meets expectations.
+* **C Satisfactory** 
+Process, execution, documentation &amp; presentation, and attendance of the students has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of senior project.
+* **D Poor / Below Average** 
+Process, execution, documentation &amp; presentation, and attendance of the student has been less than adequate. Work is lacking in many areas that show any understanding of senior project. Problems may include lack of interest, procrastination, and/or poor time management.
+* **F Unacceptable** 
+Process, execution, documentation &amp; presentation, and attendance of the student has been such that the student has failed course requirements. Work shows no overall understanding of senior project on many levels, and/or a severe lack of interest.
 
 
 ### Technology Use In The Classroom
