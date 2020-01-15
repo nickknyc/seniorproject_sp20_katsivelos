@@ -100,7 +100,7 @@
         <ul>
         <li><a href="project_plan.md">resources and milestones</a></li>
         <li><a href="project_plan.md">research and design</a> </li>
-        </ul>>
+        </ul>
     <li>Check-in with your accountability partner.</li>
     </ul>
     </td> 
