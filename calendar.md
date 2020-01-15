@@ -194,7 +194,7 @@
     </ul>
 ​    </td><td>
     <ul>
-    <li>Class Critique: <a href="project_plan.md">Project Demo of Gold Version</a></li>
+    <li>Class Critique: <a href="project_plan.md">Project Demo of Gold Version</a> (if applicable)</li>
     </ul>
 ​    </td>
 </tr>
@@ -219,10 +219,8 @@
     </ul>
      </td><td>
     <ul>
-    <li>Class Critique (if applicable): 
-        <ul>
-            <li><a href="project_plan.md">Project Demo of Gold Version Revision</a></li></ul>
-    </ul>    
+    <li>Class Critique: <a href="project_plan.md">Project Demo of Gold Version Revision</a>  (if applicable)</li>
+    </ul>
     </td> 
 </tr>
 <tr>
