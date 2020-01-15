@@ -97,6 +97,10 @@
     </td><td>
     <ul>
     <li>Group critique: deliverables</li>
+        <ul>
+        <li><a href="project_plan.md">resources and milestones</a></li>
+        <li><a href="project_plan.md">research and design</a> </li>
+        </ul>>
     <li>Check-in with your accountability partner.</li>
     </ul>
     </td> 
@@ -128,6 +132,7 @@
     </ul>
 ​    </td><td>
     <ul>
+    <li>Class discussion of reading</li> 
     <li>Class critique: <a href="project_plan_presentation.md">Project plan presentation revisions</a> (if applicable)</li>
     <li>Class critique: <a href="project_plan.md">Prototype(s)</a>
     </ul>
@@ -163,7 +168,7 @@
     <td>Wk 9 Mon Apr 6</td>
     <td>
     <ul>
-    <li>Read from "Now We're Rolling" in the 1st "Middle" chapter up until the 2nd "Middle" chapter of <i>Do The Work</i> by Steven Pressfield and post your <a href="responses.md">response</a> to your process website. (6 min)</li>
+    <li>Read the 2nd "Middle" chapter of <i>Do The Work</i> by Steven Pressfield and post your <a href="responses.md">response</a> to your process website. (6 min)</li>
      <li>Revise <a href="pro_practices_revisions">Pro practices materials</a></li>
      <li>Continue to <a href="project_plan.md">develop the project itself and iterate the research, design, resources, and milestones</a> of your project.</a></li> 
     <li><a href="website.md">Document</a> your process and project.</li>
