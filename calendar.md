@@ -181,9 +181,8 @@
     </ul>
     </td><td>
     <ul>
-    <li>Group critique: deliverables</li>
+    <li>Group critique: <a href="pro_practices_revisions">Pro practices materials</a> (if applicable)</li>
     <li>Check-in with your accountability partner.</li>
-    <li>Individual One on Ones TBD</li>
     </ul></td> 
 </tr>
 <tr>
