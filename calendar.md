@@ -68,7 +68,7 @@
     </td> 
 </tr>
 <tr>
-    <td>Fri, Feb 04</td>
+    <td>Fri, Feb 14</td>
     <td colspan="2">EXTRA CREDIT: <strong><a href="https://tisch.nyu.edu/itp/events/spring-2020/ima-games-idm-career-fair" target="_blank">IMA/Games/IDM Career Fair!</a></strong> You are strongly encouraged to attend if you do not have a conflicting class. If you do plan on participating, please let me know.</td>
 <tr>
     <td>Mon Feb 17</td>
