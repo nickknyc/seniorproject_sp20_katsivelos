@@ -1,6 +1,4 @@
-# pdf or book
-
-### END OF SEMESTER PDF
+# Process pdf or book
 
 This should be compiled using **Adobe InDesign**.
 

@@ -1,7 +1,5 @@
 # Responses
 
-## Responses
-
 * Include title of media as title of your post.
 * Include a link to the URL \(if applicable\) within your post.
 * Post URL of your response to our slack channel.

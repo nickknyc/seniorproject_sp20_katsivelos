@@ -2,8 +2,6 @@
 
 ![Everyone Starts at Zero](http://teaching.polishedsolid.com/images/gettoworkbook_at_zero.png) _Illustration by Jolby from gettoworkbook_
 
-## Recommended Resources
-
 ### Recommended Audio Podcasts
 
 * [Revision Path](https://itunes.apple.com/us/podcast/revision-path/id834173190?mt=2) Maurice Cherry interviews designers, developers, and other creators of color weekly.

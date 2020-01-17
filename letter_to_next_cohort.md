@@ -1,6 +1,4 @@
-# Letter to Next Cohort
-
-## Letter To Next Cohort
+# Letter To Next Cohort
 
 * Please name your file as lastname\_senior\_sp20\_lettertonextcohort.pdf
 * Export as a pdf and upload to your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).

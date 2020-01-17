@@ -1,6 +1,4 @@
-# Pecha Kucha
-
-## Pecha Kucha Presentation
+# Pecha Kucha Presentation
 
 On the first day of class, you will present a pecha kucha \(20 slides x 20 seconds each, for a total of 6 minutes and 40 seconds\). The goal of your pecha kucha presentation is to share who you are, what inspires you, what kinds of work you have made over your course of study in IDM, inside and outside of the classroom, and what your brainstorming and ideas are for your senior project.
 

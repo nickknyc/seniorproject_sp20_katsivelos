@@ -1,7 +1,5 @@
 # Project Versions
 
-## Project Versions
-
 Alpha, Beta, and Gold refer to a project’s life cycle. The specific parameters and expectations of each version will be individually determined in consultation with the professor.
 
 * **Alpha** is the testing phase of form and functionality for your project.

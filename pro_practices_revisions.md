@@ -1,6 +1,4 @@
-# Pro Practices Revisions
-
-## Professional Practices Revisions
+# Professional Practices Revisions
 
 Iterate the following from professional practices:
 

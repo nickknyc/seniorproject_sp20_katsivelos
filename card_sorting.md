@@ -1,6 +1,4 @@
-# Card Sorting
-
-## Brainstorming Technique: Card Sorting
+# Brainstorming Technique: Card Sorting
 
 _Co-opted from Dana Karwas' Pre-Thesis Syllabus_
 

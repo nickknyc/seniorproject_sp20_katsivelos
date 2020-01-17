@@ -2,8 +2,6 @@
 
 ![Forget Perfect. Make Progress!](http://teaching.polishedsolid.com/images/gettoworkbook_forget_perfect.png) _Illustration by Jolby from gettoworkbook_
 
-## Project Plan
-
 The project plan will consist of a presentation and a written proposal.
 
 This project plan will be constantly iterated over the course of the semester. It may grow and/or shrink over the course of the semester. Don't worry about "getting it right." The creative process is messy.

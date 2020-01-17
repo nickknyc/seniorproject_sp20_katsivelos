@@ -1,6 +1,4 @@
-# Midterm Self Assessment
-
-## Midterm Self-Assessment
+# Midterm Self-Assessment
 
 * Please name your file as lastname\_senior\_sp20\_midtermassessment.pdf
 * Direct Message as pdf to deangela on Slack.

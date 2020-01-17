@@ -1,7 +1,5 @@
 # Final Self Assessment
 
-## Final Self-Assessment
-
 * Please name your file as lastname\_\_senior\_sp20\_finalassessment.pdf
 * Export as a pdf and upload to your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
 

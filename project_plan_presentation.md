@@ -1,7 +1,5 @@
 # Project Plan Presentation
 
-## Project Plan Presentation
-
 * Use the [project plan](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/0f2608a9ce0820faa34805b26c86faa1c8fa3495/plan.md) sections as a template for your visual presentation. The project plan is just a guideline for information for your presentation. It is up to you to decide which areas you want to focus on. In other words, how many slide\(s\) will you devote to each section. In some cases, you might omit a section if you think the class remembers key ideas from your previous presentation.
 * Use google slides and the [pecha kucha](pecha_kucha.md) \(20 slides x 20 sec\) format. 
 * Export your presentation as a pdf and post in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
