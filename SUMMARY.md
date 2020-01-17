@@ -7,12 +7,11 @@
 * [Calendar](calendar.md)
 * [Project Plan](project_plan.md)
 	* [Project Versions](project_versions.md)
-* [Recommended Resources](recommended_resources.md)
+
 
 * Assignments:
 	* [Accountability Partner](accountability_partner.md)
 	* [Personal Kanban](personal_kanban.md)
-
 	* [Responses](responses.md)
 
 * Brainstorming:
@@ -32,5 +31,5 @@
 	* [Letter to Next Cohort](letter_to_next_cohort.md)
 	* [Midterm Self-Assessment](midterm_self_assessment.md)
 	* [Course Evaluation](course_evaluation.md)
-
+* [Recommended Resources](recommended_resources.md)
 
