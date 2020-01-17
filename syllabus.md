@@ -11,9 +11,10 @@ Office hours by appointment at http://calendly.com/deangela or directly after cl
 Office: 370 Jay St. Rm 361 or Bobst Rm 1238 • Office Phone: 646 997 3758  
 ```
 
-**Github Repository: https://github.com/IDMNYU/seniorproject\_sp20\_duff**
+**Course Website: https://deangela.gitbook.io/senior-project-sp20/**
+The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
 
-**Course Management Site: http://idmspsp20.slack.com \| Join with nyu.edu email address**
+**Course Communication: http://idmspsp20.slack.com \| Join with nyu.edu email address**
 
 _“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”_ -Norman Vincent Peale
 
@@ -241,15 +242,21 @@ You MUST have complete rights of use to any and all materials which appear in yo
 
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
 
-### Software Requirements
+### Diversity and Inclusion
+The TCS Department is dedicated to the university's goals for diversity, equity and inclusion.  NYU is committed to building a culture that respects and embraces diversity, inclusion, and equity, believing that these values – in all their facets – are, as President Andrew Hamilton said, “…not only important to cherish for their own sake, but because they are also vital for advancing knowledge, sparking innovation, and creating sustainable communities. They should be indispensable elements of an NYU education on all of our campuses. A diverse population encounters and appreciates all perspectives of an issue with a wealth of different approaches to confront it. The result is a higher quality of debate, and a more excellent and advanced academic enterprise.”
 
-* Browser: Chrome or Firefox
-* Website via your own ISP or [http://wp.nyu.edu](http://wp.nyu.edu)
+### Title IX
+Title IX makes it clear that violence and harassment based on sex and gender are Civil Rights offenses subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, etc. If you or someone you know has been harassed or assaulted, you can find the appropriate resources here https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html
 
 ### Required Tools
 
 * Analog or Digital Calendar
 * [Personal Kanban](http://personalkanban.com/pk/personal-kanban-101/)
+
+### Software Requirements
+
+* Web Browser
+* Website via your own ISP or [http://wp.nyu.edu](http://wp.nyu.edu)
 
 ### [Recommended Resources](recommended_resources.md)
 

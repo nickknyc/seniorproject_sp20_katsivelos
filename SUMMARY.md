@@ -18,7 +18,7 @@
 	* [Card Sorting](card_sorting.md)
 	* [Storytelling Exercise](storytelling_exercise.md)
 
-* Critiques, Demos, Presentations & Exhibition:
+* Critiques: Demos, Presentations & Exhibition:
 	* [Project Demos](project_demo.md)
 	* [Project Plan Presentation](project_plan_presentation.md)
 	* [IDM Showcase](idm_showcase.md)
