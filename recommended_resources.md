@@ -36,6 +36,19 @@
 
 * [Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered ](http://www.amazon.com/Show-Your-Work-Creativity-Discovered/dp/076117897X/ref=sr_1_1?ie=UTF8&qid=1440022873&sr=8-1&keywords=show+your+work) by Austin Kleon
 
+### Fair Use Assets
+* http://creativecommons.org
+* https://www.pond5.com/
+Royalty-Free sound
+* http://freesound.org
+* http://freemusicarchive.org
+* http://ccmixter.org
+* http://soundbible.com
+* http://www.audioblocks.com
+* http://incompetech.com
+Creative Commons Video
+* http://archive.org
+
 ### Inspiration
 
 * [Brain Pickings](https://www.brainpickings.org/)
