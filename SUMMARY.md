@@ -24,7 +24,7 @@
 	* [Project Plan Presentation](project_plan_presentation.md)
 	* [IDM Showcase](idm_showcase.md)
 
-* End of Semester Deliverables](end_of_semester_deliverables.md)
+* [End of Semester Deliverables](end_of_semester_deliverables.md)
 	* [Process pdf or book](pdf_or_book.md)
 	* [Project Documentation](project_documentation.md)
 	* [Pro Practices Revisions](pro_practices_revisions.md)
