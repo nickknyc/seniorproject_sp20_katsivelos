@@ -1,34 +1,34 @@
-# DM-UY 4003 Senior Project
+# Syllabus
 
 ![NYU](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
-#### Integrated Digital Media • Technology, Culture & Society Department 
 
-    De Angela L. Duff • deangela.duff@nyu.edu • Spring 2020 
-    Mondays • 12:30-2:20PM • 370 Jay St. Rm 311 • 3 credit hrs
-    Office hours by appointment at http://calendly.com/deangela or directly after class 
-    Office: 370 Jay St. Rm 361 or Bobst Rm 1238 • Office Phone: 646 997 3758  
+#### Integrated Digital Media • Technology, Culture & Society Department
 
-##### Github Repository: https://github.com/IDMNYU/seniorproject_sp20_duff
-##### Course Management Site: http://idmspsp20.slack.com | [Join](https://join.slack.com/t/idmspsp20/signup) with nyu.edu email address
+```text
+De Angela L. Duff • deangela.duff@nyu.edu • Spring 2020 
+Mondays • 12:30-2:20PM • 370 Jay St. Rm 311 • 3 credit hrs
+Office hours by appointment at http://calendly.com/deangela or directly after class 
+Office: 370 Jay St. Rm 361 or Bobst Rm 1238 • Office Phone: 646 997 3758  
+```
 
----
+**Github Repository: https://github.com/IDMNYU/seniorproject\_sp20\_duff**
 
-*“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”* -Norman Vincent Peale
+**Course Management Site: http://idmspsp20.slack.com \| Join with nyu.edu email address**
 
-*"We thrive when we stay on our own leading edge."* -Sarah Lewis from *The Rise: Creativity, the Gift of Failure, and the Search for Mastery* (p. 20). 
+_“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”_ -Norman Vincent Peale
 
----
+_"We thrive when we stay on our own leading edge."_ -Sarah Lewis from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p. 20\).
 
-This semester there are four different sections of senior project. Please be aware that you may be switched into another section depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects you will most likely be placed in that instructor's section: 
-* design, photo, or audio (Duff)
-* XR / AR / VR (Gannis)
-* creative technology / entrepreneurship (Katsivelos)
-* physical computing / fabrication / sculpture (Nathanson)
+This semester there are four different sections of senior project. Please be aware that you may be switched into another section depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects you will most likely be placed in that instructor's section:
 
+* design, photo, or audio \(Duff\)
+* XR / AR / VR \(Gannis\)
+* creative technology / entrepreneurship \(Katsivelos\)
+* physical computing / fabrication / sculpture \(Nathanson\)
 
 ## Welcome to Senior Project In Digital Media!
 
-**What is Senior Project in Digital Media?** Senior Project in Digital Media is the capstone course for the Integrated Digital Media (IDM) program. This course mirrors the creative process that professional artists, designers, creative technologists, and entrepreneurs must practice throughout their entire careers. In order to succeed, this course requires you to devote a lot of time and effort outside of class, throughout the entire semester.
+**What is Senior Project in Digital Media?** Senior Project in Digital Media is the capstone course for the Integrated Digital Media \(IDM\) program. This course mirrors the creative process that professional artists, designers, creative technologists, and entrepreneurs must practice throughout their entire careers. In order to succeed, this course requires you to devote a lot of time and effort outside of class, throughout the entire semester.
 
 The primary goal for the student is to develop a hunger and passion for self-directed, life-long learning and creativity. To achieve this students will involve themselves in a semester-long capstone project that includes a robust investigation of all phases of the creative process, including research, design, development, and user testing for the production of a substantial and mature body of work, representing their creative and conceptual skills as artists, designers, creative technologists, and/or entrepreneurs.
 
@@ -36,37 +36,39 @@ As you engage in the rigorous practice of a professional artist, designer, or en
 
 The Senior Project can take many forms, including but not limited to the following:
 
-* a screen-based, digital application (website, mobile app, game, etc.)
+* a screen-based, digital application \(website, mobile app, game, etc.\)
 * a physical object, musical instrument, physical game, or interactive installation
 * a performance or event,
-* a moving image (animation, film, motion graphics, video web series, etc.)
-* audio (podcast, etc.)
+* a moving image \(animation, film, motion graphics, video web series, etc.\)
+* audio \(podcast, etc.\)
 * print medium
 
 The Senior Project **can also be a team-based project** if your teammate is also taking Senior Project in any section this semester.
 
-
 ## Your Commitment to Senior Project
-Excerpt from the book *Anything You Want* by Derek Sivers
 
-     No “yes.” 
-     Either “HELL YEAH!” or “no.”
-     If you’re not saying “HELL YEAH!” about something, say “no.” 
-     When deciding whether to do something, if you feel anything less than 
-     “Wow! That would be amazing! Absolutely! Hell yeah!”
-     —then say “no.” 
+Excerpt from the book _Anything You Want_ by Derek Sivers
 
-How are you currently feeling about your Senior Project? 
+```text
+ No “yes.” 
+ Either “HELL YEAH!” or “no.”
+ If you’re not saying “HELL YEAH!” about something, say “no.” 
+ When deciding whether to do something, if you feel anything less than 
+ “Wow! That would be amazing! Absolutely! Hell yeah!”
+ —then say “no.” 
+```
+
+How are you currently feeling about your Senior Project?
+
 * Yes. 
 * Absolutely, Yes! or 
-* No:( 
+* No:\( 
 
 If you are NOT feeling “Absolutely, Yes!” about your senior project, remember your project idea is just that YOURS. I highly suggest you read "What is Senior Project in Digital Media?", again, AND the required and recommended resources NOW!
 
 Senior Project is about the work YOU are and will continue to do, when you are no longer a student. You don’t need anyone to whip you to work because you can NOT, not do it. You will live, eat, breath, and sleep with this project. It is NOT about doing a project for a class or pleasing the IDM faculty. It is about you, your ideas, your concerns, your questions and your passion.
 
 Senior Project in Digital Media is about demonstrating the maturity, responsibility, and integrity to manage your practice/research/investigation, while having the luxury of constructive critique and feedback from your fellow classmates, faculty, and outside critics. Ultimately, your goal is to COMPLETE a project that has a life beyond school, beyond graduation.
-
 
 ### Program Goals
 
@@ -80,64 +82,65 @@ The following IDM program goals are reinforced within this course. Students will
 * develop **critical thinking skills** that will allow them to analyze and position their work within cultural, historic, aesthetic, economic, and technological contexts.
 * gain knowledge of **professional practices and organizations** by developing their verbal, visual, and written communication for documentation and presentation, exhibition and promotion, networking, and career preparation.
 
-
 ### Course Goals
 
 This course will help students to:
+
 * determine, communicate, and accomplish your own vision and goals for your senior project. 
 * practice an iterative design process in conjunction with effective project & time management skills.
 * continue to hone all aspects of professional communication about your creative process and work through discourse, presentations, and writing.
 
-
 ### Learning Outcomes
 
-By the end of the course, students will be able to develop, complete, and document a body of work that is meaningful and carefully crafted to be used for professional purposes (employment, gallery shows, starting a business, etc.).
-
+By the end of the course, students will be able to develop, complete, and document a body of work that is meaningful and carefully crafted to be used for professional purposes \(employment, gallery shows, starting a business, etc.\).
 
 ### Course Structure
 
-Students are expected to be on time for all individual meetings, critiques, project demos, and presentations. 
+Students are expected to be on time for all individual meetings, critiques, project demos, and presentations.
 
 * **Outside critic**
-  It is the responsibility of each senior to invite an outside critic to *at least* one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting (date, time, length, and typed notes) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. Document the feedback that you receive on your [process website](website.md).
 
-This class will consist of 
-* **Individual Meetings**
-Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed *prior* to meeting with the instructor. Also, have any required documents ready, as well.
+  It is the responsibility of each senior to invite an outside critic to _at least_ one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting \(date, time, length, and typed notes\) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. Document the feedback that you receive on your [process website](website.md).
 
-    Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please swap times with a classmate.
+This class will consist of
+
+* **Individual Meetings** Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed _prior_ to meeting with the instructor. Also, have any required documents ready, as well.
+
+  Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please swap times with a classmate.
 
 * **Group and class critiques**
 
-    Critiques (AKA crits) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your accountability partner or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project. 
+  Critiques \(AKA crits\) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your accountability partner or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
-    Rules of the critique:
-    * Be present and engaged (i.e. Close your laptops and stow your cellphones).
-    * Give feedback to your classmates. 
-    * Do not make assumptions. Ask questions.
-    * Do your best.
-    * Do NOT take feedback personally.
+  Rules of the critique:
+
+  * Be present and engaged \(i.e. Close your laptops and stow your cellphones\).
+  * Give feedback to your classmates. 
+  * Do not make assumptions. Ask questions.
+  * Do your best.
+  * Do NOT take feedback personally.
 
     Guidelines for the critique:
-    * What is working about the project?
-    * What is confusing or needs more clarification about the project?
-    * What are ways that the project can be improved?
-    * What additional references, resources, projects, and/or links that would be useful for the project?
+
+  * What is working about the project?
+  * What is confusing or needs more clarification about the project?
+  * What are ways that the project can be improved?
+  * What additional references, resources, projects, and/or links that would be useful for the project?
 
 ### Required Readings
+
 * [Do The Work!](http://www.amazon.com/Do-Work-Steven-Pressfield/dp/1936719010/ref=sr_1_2?s=books&ie=UTF8&qid=1312385234&sr=1-2) by Steven Pressfield
 * [Epicenter Design](https://basecamp.com/gettingreal/09.2-epicenter-design)
 
 ### Communicating With The Professor Outside Of Class
 
-* Direct message the professor on Slack about logistics (when, where, how many?) ONLY
-* Talk to the professor directly after class, during one of your one-on-one meetings, or set up an appointment at http://calendly.com/deangela about issues and problems. DO NOT email long conversations. (If your email turns into paragraphs that means you should be talking to me in person not emailing me.)
+* Direct message the professor on Slack about logistics \(when, where, how many?\) ONLY
+* Talk to the professor directly after class, during one of your one-on-one meetings, or set up an appointment at [http://calendly.com/deangela](http://calendly.com/deangela) about issues and problems. DO NOT email long conversations. \(If your email turns into paragraphs that means you should be talking to me in person not emailing me.\)
 * Please be aware that I currently have a split position at NYU and, as a result, I have two different offices: one in 370 Jay and one at Bobst Library on the WSQ campus. My schedule varies from week to week, but, once school begins, most weeks, I will be at 370 Jay on Mondays and Thursdays. On other days and times, before and during the semester, I will be at Bobst more often than not.
-
 
 ### Student Responsibilities
 
-* Schedule your time (keep a calendar of some sort) 
+* Schedule your time \(keep a calendar of some sort\) 
 * Come to class, individual meetings, and special events on time. 
 * Participate in class critiques and discussions. Be vocal.
 * Consult slack at least once a week for up to date info
@@ -150,10 +153,9 @@ Be prepared to present and discuss your work at your appointed time. Students sh
 * Take risks & be fearless in your projects
 * Have fun!
 
-
 ### Student Values
 
-* Have desire amounting to enthusiasm (to learn, to explore)
+* Have desire amounting to enthusiasm \(to learn, to explore\)
 * Have self-motivation, proactiveness, and focus 
 * Have patience, persistence, and discipline 
 * Be creative
@@ -161,64 +163,71 @@ Be prepared to present and discuss your work at your appointed time. Students sh
 
 ### Self Assessments
 
-Students will conduct **self assessments** as well as be evaluated by the professor at midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something. 
-
+Students will conduct **self assessments** as well as be evaluated by the professor at midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something.
 
 ### Evaluation & Grading
 
-##### Attendance
-* Per NYU policy, any excused absences need to be validated by Deanna Rayment (deanna.rayment@nyu.edu), and have the professor notified
+**Attendance**
+
+* Per NYU policy, any excused absences need to be validated by Deanna Rayment \(deanna.rayment@nyu.edu\), and have the professor notified
 * If an excused absence is required for a religious observance, students need to contact Student Affairs at the beginning of the semester for a request, and have the professor notified
 * Attendance is mandatory on [Midterm Demo and Critique](project_demo.md) and [IDM Student Showcase](idm_showcase.md).
 * Missed individual meetings will not be rescheduled; Make every effort to swap your timeslot with another student. Otherwise, students will have to wait for their next assigned meeting time if you do not attend or swap your timeslot.
 * In the event a student has little or no progress to show, he/she is still required to attend class.
-* Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
+* Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
 * Be on Time. Tardiness will affect your grade. For every 15 minutes of tardiness, your final, numerical grade will drop by 0.625 percent
-* Contact the professor IN ADVANCE if you will not be in class (in person or by email is preferred).
+* Contact the professor IN ADVANCE if you will not be in class \(in person or by email is preferred\).
 
 #### Your final grade will be based on a synthesis of quantitative & qualitative rubrics:
 
-##### Quantitative Grading Overview
+**Quantitative Grading Overview**
 
 * 15% Weekly submissions to [process website](website.md)
 * 20% Critiques, Demos, Presentations & Exhibition
-    * 10% [Project Demos and Critiques](project_demo.md)
-    * 05% [Midterm Demo and Critique](project_demo.md)
-    * 05% [IDM Student Showcase](idm_showcase.md)
+  * 10% [Project Demos and Critiques](project_demo.md)
+  * 05% [Midterm Demo and Critique](project_demo.md)
+  * 05% [IDM Student Showcase](idm_showcase.md)
 * 30% Final Project 
-    * 15% [Project Plan and its revisions](project_plan.md)
-    * 15% [Project Development](project_plan.md)
+  * 15% [Project Plan and its revisions](project_plan.md)
+  * 15% [Project Development](project_plan.md)
 * 40% [End of Semester Documentation and Deliverables](end_of_semester_deliverables.md)   
-    * 10% [End of Semester Process PDF](pdf_or_book.md)
-    * (OPTIONAL) [End of Semester Process Book for EXTRA CREDIT (raise final grade by half a letter grade)](pdf_or_book.md)
-    * 10% [Project Documentation For IDM Archives and Promotion](project_documentation.md)
-    * 7.5% [Pro Practices Revisions](pro_practices_revisions.md)   
-    * 2.5% [Final Self-assessment](final_self_assessment.md)
-    * 2.5% [Letter To Next Cohort](letter_to_next_cohort.md)
-    * 2.5% [Midterm Self Assessment](midterm_self_assessment.md)
-    * 2.5% [Pre-work](pre-work.md)
-    * 2.5% [Course Evaluation](course_evaluation.md)  
+  * 10% [End of Semester Process PDF](pdf_or_book.md)
+  * \(OPTIONAL\) [End of Semester Process Book for EXTRA CREDIT \(raise final grade by half a letter grade\)](pdf_or_book.md)
+  * 10% [Project Documentation For IDM Archives and Promotion](project_documentation.md)
+  * 7.5% [Pro Practices Revisions](pro_practices_revisions.md)   
+  * 2.5% [Final Self-assessment](final_self_assessment.md)
+  * 2.5% [Letter To Next Cohort](letter_to_next_cohort.md)
+  * 2.5% [Midterm Self Assessment](midterm_self_assessment.md)
+  * 2.5% [Pre-work](pre-work.md)
+  * 2.5% [Course Evaluation](course_evaluation.md)  
 
-##### Qualitative Grading Overview
+**Qualitative Grading Overview**
 
-Each student will be judged on the iteration &amp; improvement (process), craft &amp; completion (execution), and documentation &amp; presentation of their senior project work. 
+Each student will be judged on the iteration & improvement \(process\), craft & completion \(execution\), and documentation & presentation of their senior project work.
 
 * **A Excellent** 
-Process, execution, documentation &amp; presentation, and attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, pursues concepts and techniques above and beyond what is discussed in class, exceeding expections.
-* **B Very Good / Good** 
-Process, execution, documentation &amp; presentation, and attendance of students has been, good, though not of the highest level. Work demonstrates a better than average sensitivity to senior project and meets expectations.
-* **C Satisfactory** 
-Process, execution, documentation &amp; presentation, and attendance of the students has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of senior project.
-* **D Poor / Below Average** 
-Process, execution, documentation &amp; presentation, and attendance of the student has been less than adequate. Work is lacking in many areas that show any understanding of senior project. Problems may include lack of interest, procrastination, and/or poor time management.
-* **F Unacceptable** 
-Process, execution, documentation &amp; presentation, and attendance of the student has been such that the student has failed course requirements. Work shows no overall understanding of senior project on many levels, and/or a severe lack of interest.
 
+  Process, execution, documentation & presentation, and attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, pursues concepts and techniques above and beyond what is discussed in class, exceeding expections.
+
+* **B Very Good / Good** 
+
+  Process, execution, documentation & presentation, and attendance of students has been, good, though not of the highest level. Work demonstrates a better than average sensitivity to senior project and meets expectations.
+
+* **C Satisfactory** 
+
+  Process, execution, documentation & presentation, and attendance of the students has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of senior project.
+
+* **D Poor / Below Average** 
+
+  Process, execution, documentation & presentation, and attendance of the student has been less than adequate. Work is lacking in many areas that show any understanding of senior project. Problems may include lack of interest, procrastination, and/or poor time management.
+
+* **F Unacceptable** 
+
+  Process, execution, documentation & presentation, and attendance of the student has been such that the student has failed course requirements. Work shows no overall understanding of senior project on many levels, and/or a severe lack of interest.
 
 ### Technology Use In The Classroom
 
 Laptop computers and other mobile devices are invaluable tools for students when used responsibly. However, this technology can also be incredibly distracting in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, instagram, twitter, etc. **When your classmates are presenting, please close your laptops and turn off your cell phones.**
-
 
 ### Academic Honesty
 
@@ -226,23 +235,27 @@ Please review [NYU Tandon's academic dishonesty policy](https://engineering.nyu.
 
 All work for this class must be your own and specific to this semester. Any work recycled from other classes or from another, non-original source will be rejected with serious implications for the student. Plagiarism, knowingly representing the words or ideas of another as one’s own work in any academic exercise, is absolutely unacceptable. Any student who commits plagiarism must re-do the assignment for a grade no higher than a D. In fact, a D is the highest possible course grade for any student who commits plagiarism. Please use the MLA or Chicago Manual style for citing and documenting source material.
 
-You MUST have complete rights of use to any and all materials which appear in your senior project. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with other students to create your own media or contact the authors of your media selections for rights. I strongly encourage you to use original media for your senior project, however should you absolutely require to use stock images, video, etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated or whether it is creative commons or copyright free.     
-
+You MUST have complete rights of use to any and all materials which appear in your senior project. This includes images, illustrations, audio etc. The source of any materials NOT created by you MUST be documented. Please remember that you can collaborate with other students to create your own media or contact the authors of your media selections for rights. I strongly encourage you to use original media for your senior project, however should you absolutely require to use stock images, video, etc., you will need to provide a PDF of all source files and the usage rights you have purchased/negotiated or whether it is creative commons or copyright free.
 
 ### Academic Accommodations
 
-If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
+If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
 
 ### Software Requirements
+
 * Browser: Chrome or Firefox
-* Website via your own ISP or http://wp.nyu.edu
+* Website via your own ISP or [http://wp.nyu.edu](http://wp.nyu.edu)
 
 ### Required Tools
+
 * Analog or Digital Calendar
 * [Personal Kanban](http://personalkanban.com/pk/personal-kanban-101/)
 
 ### [Recommended Resources](recommended_resources.md)
+
 See Appendix
 
 ### [Calendar](calendar.md)
+
 See Appendix
+
