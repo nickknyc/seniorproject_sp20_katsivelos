@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Pre-work](pre-work.md)
 * [Syllabus](syllabus.md)
