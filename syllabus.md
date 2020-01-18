@@ -1,8 +1,8 @@
 # Syllabus
 
-![NYU](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
+![Integrated Digital Media &#x2022; Technology, Culture &amp; Society Department](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
 
-#### Integrated Digital Media • Technology, Culture & Society Department
+**DM-UY 4003 Section A Senior Project**
 
 | PROFESSOR |  | COURSE INFO |  |
 | :--- | :--- | :--- | :--- |
@@ -21,7 +21,7 @@ _“If you put off everything ‘till you’re sure of it, you’ll get nothing 
 
 _"We thrive when we stay on our own leading edge."_ -Sarah Lewis from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p. 20\).
 
-This semester there are four different sections of senior project. Please be aware that you may be switched into another section depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects you will most likely be placed in that instructor's section:
+This semester there are four different sections of senior project. Please be aware that you may be **switched into another section** depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects you will most likely be placed in that instructor's section:
 
 * design, photo, or audio \(Duff\)
 * XR / AR / VR \(Gannis\)
@@ -106,15 +106,17 @@ Students are expected to be on time for all individual meetings, critiques, proj
 
 This class will consist of
 
-* **Individual Meetings** Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed _prior_ to meeting with the instructor. Also, have any required documents ready, as well.
+* **Individual Meetings** Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed _prior_ to meeting with the instructor. Also, have any required documents ready, as well.  
 
-  Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please swap times with a classmate.
+
+  Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please swap times with a classmate.  
 
 * **Group and class critiques**
 
-  Critiques \(AKA crits\) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your accountability partner or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
+  Critiques \(AKA crits\) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your [accountability partner](assignments/accountability_partner.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
-  Rules of the critique:
+  
+  **Rules of the critique:**
 
   * Be present and engaged \(i.e. Close your laptops and stow your cellphones\).
   * Give feedback to your classmates. 
@@ -122,7 +124,9 @@ This class will consist of
   * Do your best.
   * Do NOT take feedback personally.
 
-    Guidelines for the critique:
+
+
+  **Guidelines for the critique:**
 
   * What is working about the project?
   * What is confusing or needs more clarification about the project?
