@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Pre-work](pre-work.md)
+* [Pre-work](pre-work/README.md)
   * [Pecha Kucha presentation](pecha_kucha.md)
   * [Process Website](website.md)
 * [Syllabus](syllabus.md)
@@ -16,9 +16,9 @@
   * [Card Sorting](card_sorting.md)
   * [Storytelling Exercise](storytelling_exercise.md)
 * [Critiques: Demos, Presentations & Exhibition:](critiques-demos-presentations-and-exhibition/README.md)
-  * [Project Demos](critiques-demos-presentations-and-exhibition/project_demo.md)
-  * [Project Plan Presentation](critiques-demos-presentations-and-exhibition/project_plan_presentation.md)
-  * [IDM Showcase](critiques-demos-presentations-and-exhibition/idm_showcase.md)
+  * [Project Demos](project_demo.md)
+  * [Project Plan Presentation](project_plan_presentation.md)
+  * [IDM Showcase](idm_showcase.md)
 * [End of Semester Deliverables](end_of_semester_deliverables.md)
   * [Process pdf or book](pdf_or_book.md)
   * [Project Documentation](project_documentation.md)
