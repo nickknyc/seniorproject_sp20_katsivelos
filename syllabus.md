@@ -51,14 +51,14 @@ The Senior Project **can also be a team-based project** if your teammate is also
 
 Excerpt from the book _Anything You Want_ by Derek Sivers
 
-```text
- No “yes.” 
- Either “HELL YEAH!” or “no.”
- If you’re not saying “HELL YEAH!” about something, say “no.” 
- When deciding whether to do something, if you feel anything less than 
- “Wow! That would be amazing! Absolutely! Hell yeah!”
- —then say “no.”
-```
+
+> No “yes.” 
+> Either “HELL YEAH!” or “no.”
+> If you’re not saying “HELL YEAH!” about something, say “no.” 
+> When deciding whether to do something, if you feel anything less than 
+> “Wow! That would be amazing! Absolutely! Hell yeah!”
+> —then say “no.”
+
 
 How are you currently feeling about your Senior Project?
 
