@@ -12,15 +12,15 @@
 | **Office** | 370 Jay St. Rm 361 or   Bobst Rm 1238 | **Location** | 370 Jay St. Rm 311 |
 | **Office Hours** | after class or by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs** | 3 |
 
+_“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”_ -Norman Vincent Peale
+
+_"We thrive when we stay on our own leading edge."_ -Sarah Lewis from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p. 20\).
+
 **Course Website:** [https://deangela.gitbook.io/senior-project-sp20/](https://deangela.gitbook.io/senior-project-sp20/)   
 The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
 
 **Course Communication:** [http://idmspsp20.slack.com](http://idmspsp20.slack.com)  
 Slack will be our primary communication tool. Join with nyu.edu email address.
-
-_“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”_ -Norman Vincent Peale
-
-_"We thrive when we stay on our own leading edge."_ -Sarah Lewis from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p. 20\).
 
 This semester there are four different sections of senior project. Please be aware that you may be **switched into another section** depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects you will most likely be placed in that instructor's section:
 
