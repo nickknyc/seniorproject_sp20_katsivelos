@@ -5,7 +5,7 @@
   * [Pecha Kucha presentation](pre-work/pecha_kucha.md)
   * [Process Website](website.md)
 * [Syllabus](syllabus.md)
-* [Calendar](calendar.md)
+* [Schedule](schedule.md)
 * [Project Plan](project_plan.md)
   * [Project Versions](project_versions.md)
 * [Assignments:](assignments/README.md)
