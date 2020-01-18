@@ -7,9 +7,9 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">DUE DATE</th>
-      <th style="text-align:left">DELIVERABLES (DUE on date listed)</th>
-      <th style="text-align:left">CLASS</th>
+      <th style="text-align:left" width="10%">DUE DATE</th>
+      <th style="text-align:left" width="45%">DELIVERABLES (DUE on date listed)</th>
+      <th style="text-align:left" width="45%">CLASS</th>
     </tr>
   </thead>
   <tbody>
@@ -377,7 +377,7 @@
   </tbody>
 </table>
 
-Dates TBD:
+**Dates TBD:**
 * Guest or Field Trip
 * IDM Student Showcase
 
