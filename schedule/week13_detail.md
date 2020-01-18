@@ -1,4 +1,4 @@
-# Week 12 Detail Apr 27
+# Week 13 Detail May 4
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
@@ -8,5 +8,5 @@
 ## Class
 
 * Class Critique: [Project Demo of Gold Version Revision](../critiques-demos-presentations-and-exhibition/project_demo.md) \(if applicable\)
-* Check-in with your [accountability partner](../assignments/accountability_partner.md).
+* Check-in with your accountability partner.
 
