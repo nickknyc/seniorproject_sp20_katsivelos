@@ -12,10 +12,11 @@
 | **Office** | 370 Jay St. Rm 361 or   Bobst Rm 1238 | **Location** | 370 Jay St. Rm 311 |
 | **Office Hours** | after class or by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs** | 3 |
 
-**Course Website:** [https://deangela.gitbook.io/senior-project-sp20/](https://deangela.gitbook.io/senior-project-sp20/) The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
+**Course Website:** [https://deangela.gitbook.io/senior-project-sp20/](https://deangela.gitbook.io/senior-project-sp20/)   
+The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
 
 **Course Communication:** [http://idmspsp20.slack.com](http://idmspsp20.slack.com)  
-_\*\*_Slack will be our primary communication tool. Join with nyu.edu email address.
+Slack will be our primary communication tool. Join with nyu.edu email address.
 
 _“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”_ -Norman Vincent Peale
 
