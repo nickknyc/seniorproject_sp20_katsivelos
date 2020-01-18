@@ -265,9 +265,7 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 
 ### [Recommended Resources](recommended_resources.md)
 
-See Appendix
+### [Schedule](schedule.md)
 
-### [Calendar](calendar.md)
 
-See Appendix
 
