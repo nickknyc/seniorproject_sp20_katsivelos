@@ -9,13 +9,13 @@
 | **Name** | De Angela L. Duff | **Year & Term** | Spring 2020 |
 | **Email** | deangela.duff@nyu.edu | **Meeting Day** | Mondays |
 | **Phone** | 646 997 3758 | **Meeting Time** | 12:30-2:20pm |
-| **Office** | 370 Jay St. Rm 361 or  Bobst Rm 1238 | **Location** | 370 Jay St. Rm 311 |
-| **Office Hours** | after class or by appt. at http://calendly.com/deangela | **Credit Hrs** | 3 |
+| **Office** | 370 Jay St. Rm 361 or   Bobst Rm 1238 | **Location** | 370 Jay St. Rm 311 |
+| **Office Hours** | after class or by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs** | 3 |
 
 **Course Website:** [https://deangela.gitbook.io/senior-project-sp20/](https://deangela.gitbook.io/senior-project-sp20/) The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
 
-**Course Communication:** [http://idmspsp20.slack.com](http://idmspsp20.slack.com)   
-****Slack will be our primary communication tool. Join with nyu.edu email address. 
+**Course Communication:** [http://idmspsp20.slack.com](http://idmspsp20.slack.com)  
+_\*\*_Slack will be our primary communication tool. Join with nyu.edu email address.
 
 _“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”_ -Norman Vincent Peale
 
@@ -51,14 +51,11 @@ The Senior Project **can also be a team-based project** if your teammate is also
 
 Excerpt from the book _Anything You Want_ by Derek Sivers
 
-
-> No “yes.” 
-> Either “HELL YEAH!” or “no.”
-> If you’re not saying “HELL YEAH!” about something, say “no.” 
-> When deciding whether to do something, if you feel anything less than 
-> “Wow! That would be amazing! Absolutely! Hell yeah!”
+> No “yes.”   
+> Either “HELL YEAH!” or “no.”   
+> If you’re not saying “HELL YEAH!” about something, say “no.”   
+> When deciding whether to do something, if you feel anything less than “Wow! That would be amazing! Absolutely! Hell yeah!”   
 > —then say “no.”
-
 
 How are you currently feeling about your Senior Project?
 
@@ -102,37 +99,32 @@ Students are expected to be on time for all individual meetings, critiques, proj
 
 * **Outside critic**
 
-  It is the responsibility of each senior to invite an outside critic to _at least_ one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting \(date, time, length, and typed notes\) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. Document the feedback that you receive on your [process website](pre-work/website.md).
+  It is the responsibility of each senior to invite an outside critic to _at least_ one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting \(date, time, length, and typed notes\) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. Document the feedback that you receive on your [process website](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/pre-work/website.md).
 
 This class will consist of
 
 * **Individual Meetings** Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed _prior_ to meeting with the instructor. Also, have any required documents ready, as well.  
 
-
-  Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please swap times with a classmate.  
+Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please swap times with a classmate.
 
 * **Group and class critiques**
 
-  Critiques \(AKA crits\) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your [accountability partner](assignments/accountability_partner.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
+  Critiques \(AKA crits\) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your [accountability partner](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/assignments/accountability_partner.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
-  
-  **Rules of the critique:**
+**Rules of the critique:**
 
-  * Be present and engaged \(i.e. Close your laptops and stow your cellphones\).
-  * Give feedback to your classmates. 
-  * Do not make assumptions. Ask questions.
-  * Do your best.
-  * Do NOT take feedback personally.
+* Be present and engaged \(i.e. Close your laptops and stow your cellphones\).
+* Give feedback to your classmates. 
+* Do not make assumptions. Ask questions.
+* Do your best.
+* Do NOT take feedback personally.
 
+**Guidelines for the critique:**
 
-
-  **Guidelines for the critique:**
-
-  * What is working about the project?
-  * What is confusing or needs more clarification about the project?
-  * What are ways that the project can be improved?
-  * What additional references, resources, projects, and/or links that would be useful for the project?
-
+* What is working about the project?
+* What is confusing or needs more clarification about the project?
+* What are ways that the project can be improved?
+* What additional references, resources, projects, and/or links that would be useful for the project?
 
 ### Communicating With The Professor Outside Of Class
 
@@ -173,7 +165,7 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 
 * Per NYU policy, any excused absences need to be validated by Deanna Rayment \(deanna.rayment@nyu.edu\), and have the professor notified
 * If an excused absence is required for a religious observance, students need to contact Student Affairs at the beginning of the semester for a request, and have the professor notified
-* Attendance is mandatory on [Midterm Demo and Critique](critiques-demos-presentations-and-exhibition/project_demo.md) and [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm_showcase.md).
+* Attendance is mandatory on [Midterm Demo and Critique](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/project_demo.md) and [IDM Student Showcase](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/idm_showcase.md).
 * Missed individual meetings will not be rescheduled; Make every effort to swap your timeslot with another student. Otherwise, students will have to wait for their next assigned meeting time if you do not attend or swap your timeslot.
 * In the event a student has little or no progress to show, he/she is still required to attend class.
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
@@ -184,24 +176,24 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 
 **Quantitative Grading Overview**
 
-* 15% Weekly submissions to [process website](pre-work/website.md)
+* 15% Weekly submissions to [process website](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/pre-work/website.md)
 * 20% Critiques, Demos, Presentations & Exhibition
-  * 10% [Project Demos and Critiques](critiques-demos-presentations-and-exhibition/project_demo.md)
-  * 05% [Midterm Demo and Critique](critiques-demos-presentations-and-exhibition/project_demo.md)
-  * 05% [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm_showcase.md)
+  * 10% [Project Demos and Critiques](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/project_demo.md)
+  * 05% [Midterm Demo and Critique](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/project_demo.md)
+  * 05% [IDM Student Showcase](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/idm_showcase.md)
 * 30% Final Project 
-  * 15% [Project Plan and its revisions](project_plan/)
-  * 15% [Project Development](project_plan/)
-* 40% [End of Semester Documentation and Deliverables](end_of_semester_deliverables/)   
-  * 10% [End of Semester Process PDF](end_of_semester_deliverables/pdf_or_book.md)
-  * \(OPTIONAL\) [End of Semester Process Book for EXTRA CREDIT \(raise final grade by half a letter grade\)](end_of_semester_deliverables/pdf_or_book.md)
-  * 10% [Project Documentation For IDM Archives and Promotion](end_of_semester_deliverables/project_documentation.md)
-  * 7.5% [Pro Practices Revisions](end_of_semester_deliverables/pro_practices_revisions.md)   
-  * 2.5% [Final Self-assessment](end_of_semester_deliverables/final_self_assessment.md)
-  * 2.5% [Letter To Next Cohort](end_of_semester_deliverables/letter_to_next_cohort.md)
-  * 2.5% [Midterm Self Assessment](end_of_semester_deliverables/midterm_self_assessment.md)
-  * 2.5% [Pre-work](pre-work/)
-  * 2.5% [Course Evaluation](end_of_semester_deliverables/course_evaluation.md)  
+  * 15% [Project Plan and its revisions](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/project_plan/README.md)
+  * 15% [Project Development](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/project_plan/README.md)
+* 40% [End of Semester Documentation and Deliverables](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/README.md)   
+  * 10% [End of Semester Process PDF](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/pdf_or_book.md)
+  * \(OPTIONAL\) [End of Semester Process Book for EXTRA CREDIT \(raise final grade by half a letter grade\)](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/pdf_or_book.md)
+  * 10% [Project Documentation For IDM Archives and Promotion](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/project_documentation.md)
+  * 7.5% [Pro Practices Revisions](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/pro_practices_revisions.md)   
+  * 2.5% [Final Self-assessment](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/final_self_assessment.md)
+  * 2.5% [Letter To Next Cohort](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/letter_to_next_cohort.md)
+  * 2.5% [Midterm Self Assessment](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/midterm_self_assessment.md)
+  * 2.5% [Pre-work](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/pre-work/README.md)
+  * 2.5% [Course Evaluation](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/end_of_semester_deliverables/course_evaluation.md)  
 
 **Qualitative Grading Overview**
 
