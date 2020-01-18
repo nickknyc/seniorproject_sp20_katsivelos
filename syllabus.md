@@ -1,26 +1,27 @@
 # Syllabus
 
-![NYU](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
+![Integrated Digital Media &#x2022; Technology, Culture &amp; Society Department](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
 
-#### Integrated Digital Media • Technology, Culture & Society Department
+**DM-UY 4003 Section A Senior Project**
 
-```text
-De Angela L. Duff • deangela.duff@nyu.edu • Spring 2020 
-Mondays • 12:30-2:20PM • 370 Jay St. Rm 311 • 3 credit hrs
-Office hours by appointment at http://calendly.com/deangela or directly after class 
-Office: 370 Jay St. Rm 361 or Bobst Rm 1238 • Office Phone: 646 997 3758  
-```
+| PROFESSOR |  | COURSE INFO |  |
+| :--- | :--- | :--- | :--- |
+| **Name** | De Angela L. Duff | **Year & Term** | Spring 2020 |
+| **Email** | deangela.duff@nyu.edu | **Meeting Day** | Mondays |
+| **Phone** | 646 997 3758 | **Meeting Time** | 12:30-2:20pm |
+| **Office** | 370 Jay St. Rm 361 or  Bobst Rm 1238 | **Location** | 370 Jay St. Rm 311 |
+| **Office Hours** | after class or by appt. at http://calendly.com/deangela | **Credit Hrs** | 3 |
 
-**Course Website: https://deangela.gitbook.io/senior-project-sp20/**
-The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
+**Course Website:** [https://deangela.gitbook.io/senior-project-sp20/](https://deangela.gitbook.io/senior-project-sp20/) The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
 
-**Course Communication: http://idmspsp20.slack.com \| Join with nyu.edu email address**
+**Course Communication:** [http://idmspsp20.slack.com](http://idmspsp20.slack.com)   
+****Slack will be our primary communication tool. Join with nyu.edu email address. 
 
 _“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”_ -Norman Vincent Peale
 
 _"We thrive when we stay on our own leading edge."_ -Sarah Lewis from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p. 20\).
 
-This semester there are four different sections of senior project. Please be aware that you may be switched into another section depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects you will most likely be placed in that instructor's section:
+This semester there are four different sections of senior project. Please be aware that you may be **switched into another section** depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects you will most likely be placed in that instructor's section:
 
 * design, photo, or audio \(Duff\)
 * XR / AR / VR \(Gannis\)
@@ -56,7 +57,7 @@ Excerpt from the book _Anything You Want_ by Derek Sivers
  If you’re not saying “HELL YEAH!” about something, say “no.” 
  When deciding whether to do something, if you feel anything less than 
  “Wow! That would be amazing! Absolutely! Hell yeah!”
- —then say “no.” 
+ —then say “no.”
 ```
 
 How are you currently feeling about your Senior Project?
@@ -101,19 +102,21 @@ Students are expected to be on time for all individual meetings, critiques, proj
 
 * **Outside critic**
 
-  It is the responsibility of each senior to invite an outside critic to _at least_ one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting \(date, time, length, and typed notes\) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. Document the feedback that you receive on your [process website](website.md).
+  It is the responsibility of each senior to invite an outside critic to _at least_ one of their project critiques, demos, or presentations. “Outside” might mean a faculty member from IDM, another NYU college, or another university altogether, a mentor from the professional world, an expert in your area of research, etc. A one on one, documented meeting \(date, time, length, and typed notes\) with the outside critic can substitute for their presence at a project critique. Also, have the outside critic email me to confirm that they actually met with you. Document the feedback that you receive on your [process website](pre-work/website.md).
 
 This class will consist of
 
-* **Individual Meetings** Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed _prior_ to meeting with the instructor. Also, have any required documents ready, as well.
+* **Individual Meetings** Be prepared to present and discuss your work at your appointed time. Students should plan ahead and ensure that technical requirements necessary for the review of work are addressed _prior_ to meeting with the instructor. Also, have any required documents ready, as well.  
 
-  Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please swap times with a classmate.
+
+  Individual meetings are not optional. They are important and useful. Sometimes they are most useful exactly when you feel you have nothing to talk about or show. It is normal that you may sometimes have nothing "good" to show, or even nothing at all. It is still important that you keep your appointment so that we can talk about that. If for some unusual reason you cannot make your appointment one week, please swap times with a classmate.  
 
 * **Group and class critiques**
 
-  Critiques \(AKA crits\) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your accountability partner or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
+  Critiques \(AKA crits\) are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the aural, visual, and conceptual impact of each existing idea. Have at least your [accountability partner](assignments/accountability_partner.md) or another classmate take notes for you when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
-  Rules of the critique:
+  
+  **Rules of the critique:**
 
   * Be present and engaged \(i.e. Close your laptops and stow your cellphones\).
   * Give feedback to your classmates. 
@@ -121,7 +124,9 @@ This class will consist of
   * Do your best.
   * Do NOT take feedback personally.
 
-    Guidelines for the critique:
+
+
+  **Guidelines for the critique:**
 
   * What is working about the project?
   * What is confusing or needs more clarification about the project?
@@ -168,7 +173,7 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 
 * Per NYU policy, any excused absences need to be validated by Deanna Rayment \(deanna.rayment@nyu.edu\), and have the professor notified
 * If an excused absence is required for a religious observance, students need to contact Student Affairs at the beginning of the semester for a request, and have the professor notified
-* Attendance is mandatory on [Midterm Demo and Critique](project_demo.md) and [IDM Student Showcase](idm_showcase.md).
+* Attendance is mandatory on [Midterm Demo and Critique](critiques-demos-presentations-and-exhibition/project_demo.md) and [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm_showcase.md).
 * Missed individual meetings will not be rescheduled; Make every effort to swap your timeslot with another student. Otherwise, students will have to wait for their next assigned meeting time if you do not attend or swap your timeslot.
 * In the event a student has little or no progress to show, he/she is still required to attend class.
 * Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent \(1/2 a grade point \(e.g. A to an A-\)\) for each additional absence.
@@ -179,46 +184,46 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 
 **Quantitative Grading Overview**
 
-* 15% Weekly submissions to [process website](website.md)
+* 15% Weekly submissions to [process website](pre-work/website.md)
 * 20% Critiques, Demos, Presentations & Exhibition
-  * 10% [Project Demos and Critiques](project_demo.md)
-  * 05% [Midterm Demo and Critique](project_demo.md)
-  * 05% [IDM Student Showcase](idm_showcase.md)
+  * 10% [Project Demos and Critiques](critiques-demos-presentations-and-exhibition/project_demo.md)
+  * 05% [Midterm Demo and Critique](critiques-demos-presentations-and-exhibition/project_demo.md)
+  * 05% [IDM Student Showcase](critiques-demos-presentations-and-exhibition/idm_showcase.md)
 * 30% Final Project 
-  * 15% [Project Plan and its revisions](project_plan.md)
-  * 15% [Project Development](project_plan.md)
-* 40% [End of Semester Documentation and Deliverables](end_of_semester_deliverables.md)   
-  * 10% [End of Semester Process PDF](pdf_or_book.md)
-  * \(OPTIONAL\) [End of Semester Process Book for EXTRA CREDIT \(raise final grade by half a letter grade\)](pdf_or_book.md)
-  * 10% [Project Documentation For IDM Archives and Promotion](project_documentation.md)
-  * 7.5% [Pro Practices Revisions](pro_practices_revisions.md)   
-  * 2.5% [Final Self-assessment](final_self_assessment.md)
-  * 2.5% [Letter To Next Cohort](letter_to_next_cohort.md)
-  * 2.5% [Midterm Self Assessment](midterm_self_assessment.md)
-  * 2.5% [Pre-work](pre-work.md)
-  * 2.5% [Course Evaluation](course_evaluation.md)  
+  * 15% [Project Plan and its revisions](project_plan/)
+  * 15% [Project Development](project_plan/)
+* 40% [End of Semester Documentation and Deliverables](end_of_semester_deliverables/)   
+  * 10% [End of Semester Process PDF](end_of_semester_deliverables/pdf_or_book.md)
+  * \(OPTIONAL\) [End of Semester Process Book for EXTRA CREDIT \(raise final grade by half a letter grade\)](end_of_semester_deliverables/pdf_or_book.md)
+  * 10% [Project Documentation For IDM Archives and Promotion](end_of_semester_deliverables/project_documentation.md)
+  * 7.5% [Pro Practices Revisions](end_of_semester_deliverables/pro_practices_revisions.md)   
+  * 2.5% [Final Self-assessment](end_of_semester_deliverables/final_self_assessment.md)
+  * 2.5% [Letter To Next Cohort](end_of_semester_deliverables/letter_to_next_cohort.md)
+  * 2.5% [Midterm Self Assessment](end_of_semester_deliverables/midterm_self_assessment.md)
+  * 2.5% [Pre-work](pre-work/)
+  * 2.5% [Course Evaluation](end_of_semester_deliverables/course_evaluation.md)  
 
 **Qualitative Grading Overview**
 
 Each student will be judged on the iteration & improvement \(process\), craft & completion \(execution\), and documentation & presentation of their senior project work.
 
-* **A Excellent** 
+* **A Excellent**
 
   Process, execution, documentation & presentation, and attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, pursues concepts and techniques above and beyond what is discussed in class, exceeding expections.
 
-* **B Very Good / Good** 
+* **B Very Good / Good**
 
   Process, execution, documentation & presentation, and attendance of students has been, good, though not of the highest level. Work demonstrates a better than average sensitivity to senior project and meets expectations.
 
-* **C Satisfactory** 
+* **C Satisfactory**
 
   Process, execution, documentation & presentation, and attendance of the students has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of senior project.
 
-* **D Poor / Below Average** 
+* **D Poor / Below Average**
 
   Process, execution, documentation & presentation, and attendance of the student has been less than adequate. Work is lacking in many areas that show any understanding of senior project. Problems may include lack of interest, procrastination, and/or poor time management.
 
-* **F Unacceptable** 
+* **F Unacceptable**
 
   Process, execution, documentation & presentation, and attendance of the student has been such that the student has failed course requirements. Work shows no overall understanding of senior project on many levels, and/or a severe lack of interest.
 
@@ -239,10 +244,12 @@ You MUST have complete rights of use to any and all materials which appear in yo
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
 
 ### Diversity and Inclusion
-The TCS Department is dedicated to the university's goals for diversity, equity and inclusion.  NYU is committed to building a culture that respects and embraces diversity, inclusion, and equity, believing that these values – in all their facets – are, as President Andrew Hamilton said, “…not only important to cherish for their own sake, but because they are also vital for advancing knowledge, sparking innovation, and creating sustainable communities. They should be indispensable elements of an NYU education on all of our campuses. A diverse population encounters and appreciates all perspectives of an issue with a wealth of different approaches to confront it. The result is a higher quality of debate, and a more excellent and advanced academic enterprise.”
+
+The TCS Department is dedicated to the university's goals for diversity, equity and inclusion. NYU is committed to building a culture that respects and embraces diversity, inclusion, and equity, believing that these values – in all their facets – are, as President Andrew Hamilton said, “…not only important to cherish for their own sake, but because they are also vital for advancing knowledge, sparking innovation, and creating sustainable communities. They should be indispensable elements of an NYU education on all of our campuses. A diverse population encounters and appreciates all perspectives of an issue with a wealth of different approaches to confront it. The result is a higher quality of debate, and a more excellent and advanced academic enterprise.”
 
 ### Title IX
-Title IX makes it clear that violence and harassment based on sex and gender are Civil Rights offenses subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, etc. If you or someone you know has been harassed or assaulted, you can find the appropriate resources here https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html
+
+Title IX makes it clear that violence and harassment based on sex and gender are Civil Rights offenses subject to the same kinds of accountability and the same kinds of support applied to offenses against other protected categories such as race, national origin, etc. If you or someone you know has been harassed or assaulted, you can find the appropriate resources here [https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html](https://www.nyu.edu/about/policies-guidelines-compliance/equal-opportunity/title9.html)
 
 ### Required Readings
 
