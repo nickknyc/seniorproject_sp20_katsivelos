@@ -1,4 +1,4 @@
-# Week 15 Detail May 13-19
+# Week 15 Detail Wed May 13-19
 
 ## Final One on One Review
 
