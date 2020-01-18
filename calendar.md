@@ -7,14 +7,9 @@
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">DUE DATE
-        <br />
-      </th>
-      <th style="text-align:left">DELIVERABLES (DUE on date listed)
-        <br />
-      </th>
+      <th style="text-align:left">DUE DATE</th>
+      <th style="text-align:left">DELIVERABLES (DUE on date listed)</th>
       <th style="text-align:left">CLASS</th>
-      <th style="text-align:left"></th>
     </tr>
   </thead>
   <tbody>
@@ -40,7 +35,6 @@
           </li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Wk 2 Mon Feb 03</td>
@@ -64,13 +58,11 @@
           <li><a href="pecha_kucha.md">Pecha kucha presentation revisions</a> (if applicable)</li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Sun, Feb 09</td>
       <td style="text-align:left"><b>LAST DAY OF DROP/ADD</b> (to receive 100% of tuition &amp; fees and
         not receive a grade of &apos;W&apos;)</td>
-      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -93,7 +85,6 @@
           </li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Fri, Feb 14</td>
@@ -101,13 +92,11 @@
         are strongly encouraged to attend if you do not have a conflicting class.
         If you do plan on participating, please let me know.</td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Mon Feb 17</td>
       <td style="text-align:left"><b>President&apos;s Day / University Holiday - NO Classes</b>
       </td>
-      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -127,7 +116,6 @@
           <li>Check-in with your accountability partner.</li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Wk 5 Mon Mar 02</td>
@@ -152,7 +140,6 @@
           <li>Check-in with your accountability partner.</li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Wk 6 Mon Mar 09</td>
@@ -173,13 +160,11 @@
           </li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Mon Mar 16 - Fri Mar 20</td>
       <td style="text-align:left"><b>Spring Break - NO CLASS</b>
       </td>
-      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -205,7 +190,6 @@
           </li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Wk 8 Mon Mar 30</td>
@@ -223,7 +207,6 @@
           </li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Tue Mar 31 - Fri Apr 3</td>
@@ -243,13 +226,11 @@
         </ul>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Fri, Apr 3</td>
       <td style="text-align:left"><b>LAST DAY TO WITHDRAW</b>
       </td>
-      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -275,7 +256,6 @@
           <li>Check-in with your accountability partner.</li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Wk 10 Mon Apr 13</td>
@@ -293,7 +273,6 @@
           <li>Check-in with your accountability partner.</li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Wk 11 Mon Apr 20</td>
@@ -313,10 +292,8 @@
         </ul>
         <p>&#x200B;</p>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
-      <td style="text-align:left">&#x200B;</td>
       <td style="text-align:left">Wk 12 Mon Apr 27</td>
       <td style="text-align:left">
         <ul>
@@ -351,7 +328,6 @@
           <li>Check-in with your accountability partner.</li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Wk 14 Mon May 11</td>
@@ -366,10 +342,7 @@
         </ul>
       </td>
       <td style="text-align:left">
-        <p><b>LAST DAY OF SPRING 2020 CLASSES</b>
-          <br />
-          <br />
-        </p>
+        <p><b>LAST DAY OF SPRING 2020 CLASSES</b></p>
         <ul>
           <li>Class discussion of reading</li>
           <li>Class Critique: <a href="project_plan.md">Project Demo of Gold Version Revision</a> (if
@@ -377,12 +350,10 @@
           <li>Check-in with your accountability partner.</li>
         </ul>
       </td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left">Tue May 12</td>
       <td style="text-align:left">Reading Day</td>
-      <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
     <tr>
@@ -402,11 +373,11 @@
         </ul>
       </td>
       <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>Dates TBD:
+</table>
 
+Dates TBD:
 * Guest or Field Trip
 * IDM Student Showcase
 
