@@ -152,7 +152,7 @@ Please remember that you and a classmate can work as a team. Only one presentati
       <td style="text-align:left">
         <p>Including, but not limited to, brainstorming (<a href="card_sorting.md">card sorting technique</a>,
           <a
-          href="http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811">mind maps</a>(see example pinned on slack), <a href="http://www.mindtools.com/pages/article/newCT_02.htm">SCAMPER technique</a>,
+          href="http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811">mind maps</a> (see example pinned on slack), <a href="http://www.mindtools.com/pages/article/newCT_02.htm">SCAMPER technique</a>,
             <a
             href="storytelling_exercise.md">storytelling exercise</a>, word lists, etc.), readings, screenings / viewings,
               exhibitions, talks, tech research, material research, visual research,
