@@ -1,4 +1,4 @@
-# Week 10 Detail Apr 13
+# Week 11 Detail Apr 20
 
 ## Deliverables \(DUE ON DATE LISTED\)
 
@@ -7,6 +7,6 @@
 
 ## Class
 
-* Group critique: [Pro practices materials](../end_of_semester_deliverables/pro_practices_revisions.md) \(if applicable\)
+* Class Critique: [Project Demo of Gold Version](../critiques-demos-presentations-and-exhibition/project_demo.md) \(if applicable\)
 * Check-in with your accountability partner.
 
