@@ -4,7 +4,7 @@
 
 * Read the 1st "Middle" chapter up until "Now We're Rolling" of Do The Work by Steven Pressfield \(10 min\) and post your [response](../assignments/responses.md) to your process website.
 * [Research and design](../project_plan/) your project.
-* [Document](../pre-work/website.md) your process and project.
+* Document your process and project on your [process website](../pre-work/website.md).
 
 ## Class
 

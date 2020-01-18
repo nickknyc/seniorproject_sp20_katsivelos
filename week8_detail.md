@@ -1,8 +1,5 @@
 ##Deliverables (DUE ON DATE LISTED)
 
-* Create and/or iterate prototype(s) of your project.
-* Document your process and project.
+* Do pre-work DUE on first day of class.
 
 ## Class
-
-* Midterm Demo and Critique with another section of senior project.
