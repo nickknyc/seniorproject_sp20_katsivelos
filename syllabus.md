@@ -12,11 +12,12 @@
 | **Office** | 370 Jay St. Rm 361 or   Bobst Rm 1238 | **Location** | 370 Jay St. Rm 311 |
 | **Office Hours** | after class or by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs** | 3 |
 
-> _“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”_ -Norman Vincent Peale
+> _“If **you put off everything ‘till you’re sure of it, you’ll get nothing done.”**_ ****  
+> -Norman Vincent Peale
+>
+> _"W**e thrive when we stay on our own leading edge."**_ -Sarah Lewis from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p. 20\).
 
-> _"We thrive when we stay on our own leading edge."_ -Sarah Lewis from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p. 20\).
-
-**Course Website:** [https://deangela.gitbook.io/senior-project-sp20/](https://deangela.gitbook.io/senior-project-sp20/)   
+**Course Website:** [https://deangela.gitbook.io/senior-project-sp20/](https://deangela.gitbook.io/senior-project-sp20/)  
 The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
 
 **Course Communication:** [http://idmspsp20.slack.com](http://idmspsp20.slack.com)  
@@ -52,10 +53,10 @@ The Senior Project **can also be a team-based project** if your teammate is also
 
 Excerpt from the book _Anything You Want_ by Derek Sivers
 
-> No “yes.”   
-> Either “HELL YEAH!” or “no.”   
-> If you’re not saying “HELL YEAH!” about something, say “no.”   
-> When deciding whether to do something, if you feel anything less than “Wow! That would be amazing! Absolutely! Hell yeah!”   
+> No “yes.”  
+> Either “HELL YEAH!” or “no.”  
+> If you’re not saying “HELL YEAH!” about something, say “no.”  
+> When deciding whether to do something, if you feel anything less than “Wow! That would be amazing! Absolutely! Hell yeah!”  
 > —then say “no.”
 
 How are you currently feeling about your Senior Project?
