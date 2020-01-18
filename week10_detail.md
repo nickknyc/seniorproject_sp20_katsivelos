@@ -1,5 +1,9 @@
 ##Deliverables (DUE ON DATE LISTED)
 
-* Do pre-work DUE on first day of class.
+* Continue to develop the project itself and iterate the research, design, resources, and milestones of your project.
+* Document your process and project.
 
 ## Class
+
+* Group critique: Pro practices materials (if applicable)
+* Check-in with your accountability partner.
