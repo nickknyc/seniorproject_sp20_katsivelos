@@ -10,7 +10,7 @@ Please remember that you and a classmate can work as a team. Only one presentati
 
 * Please name your file as lastname\_senior\_sp20\_projectplandraft\#\_date.pdf \(i.e. duff\_senior\_sp20\_projectplan1\_2016jan15.pdf\). If a team, put both of your last names \(i.e. duff\_and\_dubois\)
 * Please note that any significant changes to your project will require the submission of a revised project plan.
-* Upload drafts to a folder labeled _project plan_ in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
+* Upload drafts to a folder labeled _project plan_ in your project documentation folder for your [end of semester deliverables](../end_of_semester_deliverables/).
 
 <table>
   <thead>
@@ -150,11 +150,11 @@ Please remember that you and a classmate can work as a team. Only one presentati
       <td style="text-align:left"><b>Research</b>
       </td>
       <td style="text-align:left">
-        <p>Including, but not limited to, brainstorming (<a href="card_sorting.md">card sorting technique</a>,
+        <p>Including, but not limited to, brainstorming (<a href="../brainstorming/card_sorting.md">card sorting technique</a>,
           <a
-          href="http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811">mind maps</a> (see example pinned on slack), <a href="http://www.mindtools.com/pages/article/newCT_02.htm">SCAMPER technique</a>,
+          href="http://lifehacker.com/how-to-use-mind-maps-to-unleash-your-brains-creativity-1348869811">mind maps</a>(see example pinned on slack), <a href="http://www.mindtools.com/pages/article/newCT_02.htm">SCAMPER technique</a>,
             <a
-            href="storytelling_exercise.md">storytelling exercise</a>, word lists, etc.), readings, screenings / viewings,
+            href="../brainstorming/storytelling_exercise.md">storytelling exercise</a>, word lists, etc.), readings, screenings / viewings,
               exhibitions, talks, tech research, material research, visual research,
               collection, interviews, observation, etc.</p>
         <ul>
@@ -175,10 +175,6 @@ Please remember that you and a classmate can work as a team. Only one presentati
             are most appropriate for your project.</li>
         </ul>
       </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left"></td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Development</b>
