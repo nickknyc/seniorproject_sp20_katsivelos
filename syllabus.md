@@ -2,7 +2,13 @@
 
 ![Integrated Digital Media &#x2022; Technology, Culture &amp; Society Department](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
 
-**DM-UY 4003 Section A Senior Project**
+**DM-UY 4003 Section A: SENIOR PROJECT**
+
+> _**“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”**_  
+> -Norman Vincent Peale
+>
+> _**"We thrive when we stay on our own leading edge."**_ -Sarah Lewis from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p. 20\).
+
 
 | PROFESSOR |  | COURSE INFO |  |
 | :--- | :--- | :--- | :--- |
@@ -12,10 +18,6 @@
 | **Office** | 370 Jay St. Rm 361 or   Bobst Rm 1238 | **Location** | 370 Jay St. Rm 311 |
 | **Office Hours** | after class or by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs** | 3 |
 
-> _**“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”**_  
-> -Norman Vincent Peale
->
-> _**"We thrive when we stay on our own leading edge."**_ -Sarah Lewis from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p. 20\).
 
 **Course Website:** [https://deangela.gitbook.io/senior-project-sp20/](https://deangela.gitbook.io/senior-project-sp20/)  
 The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
