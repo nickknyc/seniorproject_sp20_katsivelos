@@ -1,17 +1,20 @@
 # Syllabus
 
-![Integrated Digital Media &#x2022; Technology, Culture &amp; Society Department](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
 
-DM-UY 4003-A Senior Project in Digital Media
+
+![](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
+
+## DM-UY 4003-A Senior Project in Digital Media
 
 _**“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”**_  
--Norman Vincent Peale
+~ Norman Vincent Peale
 
-> _**"We thrive when we stay on our own leading edge."**_ -Sarah Lewis from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p. 20\).
+_**"We thrive when we stay on our own leading edge."**_  ~ Sarah Lewis   
+from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p. 20\).
 
 | PROFESSOR |  | COURSE INFO |  |
 | :--- | :--- | :--- | :--- |
-| **Name** | De Angela L. Duff | **Year & Term** | Spring 2020 |
+| **Name** | De Angela L. Duff | **Term & Year** | Spring 2020 |
 | **Email** | deangela.duff@nyu.edu | **Meeting Day** | Mondays |
 | **Phone** | 646 997 3758 | **Meeting Time** | 12:30-2:20pm |
 | **Office** | 370 Jay St. Rm 361 or    Bobst Rm 1238 | **Location** | 370 Jay St. Rm 311 |
