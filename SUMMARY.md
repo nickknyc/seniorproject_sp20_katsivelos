@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Introduction](README.md)
 * [Pre-work](pre-work.md)
   * [Pecha Kucha presentation](pre-work/pecha_kucha.md)
   * [Process Website](website.md)
