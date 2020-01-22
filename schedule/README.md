@@ -153,7 +153,7 @@
     <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left">Tue May 12</td>
-      <td style="text-align:left">Reading Day</td>
+      <td style="text-align:left">NYU Reading Day</td>
     </tr>
     <tr>
       <td style="text-align:left">15</td>
