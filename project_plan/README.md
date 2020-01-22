@@ -1,8 +1,6 @@
 # Project Plan
 
-![Forget Perfect. Make Progress!](http://teaching.polishedsolid.com/images/gettoworkbook_forget_perfect.png) 
-
-_Illustration by Jolby from gettoworkbook_
+![Forget Perfect. Make Progress!](http://teaching.polishedsolid.com/images/gettoworkbook_forget_perfect.png) _Illustration by Jolby from gettoworkbook_
 
 The project plan will consist of a presentation and a written proposal.
 
