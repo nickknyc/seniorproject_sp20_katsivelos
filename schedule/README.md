@@ -78,13 +78,14 @@
       <td style="text-align:left">7</td>
       <td style="text-align:left"><a href="week7_detail.md">Mon Mar 23</a>
       </td>
-      <td style="text-align:left">Project plan presentation revisions / Prototype(s)</td>
+      <td style="text-align:left"><b>Midterm Demo and Critique</b>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">8</td>
       <td style="text-align:left"><a href="week8_detail.md">Mon </a><a href="week8_detail.md">Mar 30</a>
       </td>
-      <td style="text-align:left"><b>Midterm Demo and Critique</b>
+      <td style="text-align:left"><b>Midterm Demo and Critique continued</b>
       </td>
     </tr>
     <tr>
