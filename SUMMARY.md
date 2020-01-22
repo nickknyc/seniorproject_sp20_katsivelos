@@ -1,10 +1,11 @@
 # Table of contents
 
+* [Introduction](README.md)
 * [Pre-work](pre-work.md)
   * [Pecha Kucha presentation](pre-work/pecha_kucha.md)
   * [Process Website](website.md)
 * [Syllabus](syllabus.md)
-* [Schedule](schedule.md)
+* [Schedule](schedule/README.md)
   * [Week 1 Detail Jan 27](week1_detail.md)
   * [Week 2 Detail Feb 3](schedule/week2_detail.md)
   * [Week 3 Detail Feb 10](schedule/week3_detail.md)
