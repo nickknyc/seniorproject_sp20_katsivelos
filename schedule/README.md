@@ -1,6 +1,8 @@
 # Schedule
 
-![Big Things Happen One Day At A Time](http://teaching.polishedsolid.com/images/gettoworkbook_big_things.png) _Illustration by Jolby from gettoworkbook_
+![Big Things Happen One Day At A Time](http://teaching.polishedsolid.com/images/gettoworkbook_big_things.png) 
+
+_Illustration by Jolby from gettoworkbook_
 
 **ALL dates and assignments are subject to change at the discretion of the professor!** If applicable, means it depends on where you are in your process. Every project is different. Certain aspects of your project may take more or less time than others.
 
