@@ -24,7 +24,7 @@ The course website is the official source for all dates and assignments. This sy
 **Course Communication:** [http://idmspsp20.slack.com](http://idmspsp20.slack.com)  
 Slack will be our primary communication tool. Join with nyu.edu email address.
 
-This semester there are four different sections of senior project. Please be aware that you may be **switched into another section** depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects you will most likely be placed in that instructor's section:
+This semester there are four different sections of senior project. Please be aware that you may be **switched into another section** depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects, there is a strong possibility that you will be placed in that instructor's section:
 
 * design, photo, or audio \(Duff\)
 * XR / AR / VR \(Gannis\)
