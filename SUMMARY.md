@@ -37,7 +37,7 @@
 * [End of Semester Deliverables](end_of_semester_deliverables.md)
   * [Process pdf or book](pdf_or_book.md)
   * [Project Documentation](project_documentation.md)
-  * [Pro Practices Revisions](pro_practices_revisions.md)
+  * [Pro Practices Revisions](end_of_semester_deliverables/pro_practices_revisions.md)
   * [Final Self Assessment](final_self_assessment.md)
   * [Letter to Next Cohort](letter_to_next_cohort.md)
   * [Midterm Self-Assessment](midterm_self_assessment.md)
