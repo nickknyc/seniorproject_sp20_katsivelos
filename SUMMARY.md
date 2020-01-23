@@ -24,7 +24,7 @@
 * [Project Plan](project_plan/README.md)
   * [Project Versions](project_versions.md)
 * [Assignments:](assignments/README.md)
-  * [Accountability Partner](accountability_partner.md)
+  * [Accountability Partner](assignments/accountability_partner.md)
   * [Personal Kanban](personal_kanban.md)
   * [Responses](responses.md)
 * [Brainstorming:](brainstorming/README.md)
