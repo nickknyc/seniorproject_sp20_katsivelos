@@ -1,7 +1,5 @@
 # Syllabus
 
-
-
 ![](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
 
 ## DM-UY 4003-A Senior Project in Digital Media
@@ -9,7 +7,7 @@
 _**“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”**_  
 ~ Norman Vincent Peale
 
-_**"We thrive when we stay on our own leading edge."**_  ~ Sarah Lewis   
+_**"We thrive when we stay on our own leading edge."**_ ~ Sarah Lewis  
 from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p. 20\).
 
 | PROFESSOR |  | COURSE INFO |  |
@@ -17,7 +15,7 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p
 | **Name** | De Angela L. Duff | **Term & Year** | Spring 2020 |
 | **Email** | deangela.duff@nyu.edu | **Meeting Day** | Mondays |
 | **Phone** | 646 997 3758 | **Meeting Time** | 12:30-2:20pm |
-| **Office** | 370 Jay St. Rm 361 or    Bobst Rm 1238 | **Location** | 370 Jay St. Rm 311 |
+| **Office** | 370 Jay St. Rm 361 or Bobst Rm 1238 | **Location** | 370 Jay St. Rm 311 |
 | **Office Hours** | after class or by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs** | 3 |
 
 **Course Website:** [https://deangela.gitbook.io/senior-project-sp20/](https://deangela.gitbook.io/senior-project-sp20/)  
@@ -26,7 +24,7 @@ The course website is the official source for all dates and assignments. This sy
 **Course Communication:** [http://idmspsp20.slack.com](http://idmspsp20.slack.com)  
 Slack will be our primary communication tool. Join with nyu.edu email address.
 
-This semester there are four different sections of senior project. Please be aware that you may be **switched into another section** depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects you will most likely be placed in that instructor's section:
+This semester there are four different sections of senior project. Please be aware that you may be **switched into another section** depending on your area of interest and whether or not you elect to have a team senior project. Teams will be placed in the same section if at all possible. All of the sections are being held at the same time so the switch will not affect your schedule at all. We will try to balance the sections according to the following but we may not be able to accommodate all students depending on various factors. If you are working on the following types of projects, there is a strong possibility that you will be placed in that instructor's section:
 
 * design, photo, or audio \(Duff\)
 * XR / AR / VR \(Gannis\)
@@ -147,7 +145,8 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 * **Back up your work constantly** 
 * Complete all deliverables by their due dates
 * Action – do your absolute best
-* Strive for continuous improvement
+* Reflection - Any action without reflection is meaningless
+* Iteration - Strive for continuous improvement
 * Pay attention to detail & craft
 * Take risks & be fearless in your projects
 * Have fun!
@@ -162,7 +161,7 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 
 ### Self Assessments
 
-Students will conduct **self assessments** as well as be evaluated by the professor at midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something.
+Students will conduct **self assessments** as well as be evaluated by the professor at midterm and at the end of the semester. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something.
 
 ### Evaluation & Grading
 
@@ -238,7 +237,7 @@ You MUST have complete rights of use to any and all materials which appear in yo
 
 ### Academic Accommodations
 
-If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at http://www.nyu.edu/csd. The Moses Center is located at [726 Broadway](https://www.google.com/maps?q=726+Broadway&entry=gmail&source=g) on the 2nd floor.
+If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at [http://www.nyu.edu/csd](http://www.nyu.edu/csd). The Moses Center is located at [726 Broadway](https://www.google.com/maps?q=726+Broadway&entry=gmail&source=g) on the 2nd floor.
 
 ### Diversity and Inclusion
 
@@ -265,7 +264,5 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 
 ### [Recommended Resources](recommended_resources.md)
 
-### [Schedule](schedule.md)
-
-
+### [Schedule](schedule/)
 
