@@ -1,4 +1,4 @@
-# Card Sorting
+# Brainstorming Technique: Card Sorting
 
 _Co-opted from Dana Karwas' Pre-Thesis Syllabus_
 
@@ -9,7 +9,7 @@ Card sorting is about creating associations between information. Please complete
 * Use a dark pen or sharpie to write.
 * Get four different colors of post-it notes or index cards.
 * Take pictures of each step along the way. Make sure the photos are lit well and have good contrast.
-* Upload your photos to your [process website](../pre-work/website.md).
+* Upload your photos to your [process website](website.md).
 
 **Step 1: PROJECT CARDS**
 
@@ -33,5 +33,5 @@ Once you come up with a project idea, try to deconstruct it and organize differe
 
 **Step 5: IDEA LIST**
 
-Figure out which of these ideas speak most strongly to you. Make a ranked list of the idea cards. Ask yourself why you choose those cards, and why the idea is interesting to you. Take photos and notes and post to your [process website](../pre-work/website.md).
+Figure out which of these ideas speak most strongly to you. Make a ranked list of the idea cards. Ask yourself why you choose those cards, and why the idea is interesting to you. Take photos and notes and post to your [process website](website.md).
 

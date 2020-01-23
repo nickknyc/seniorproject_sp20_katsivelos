@@ -1,4 +1,4 @@
-# Accountability Partner
+# Accountability Partners
 
 **Responsibility of Accountability Partners**
 
