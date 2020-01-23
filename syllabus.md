@@ -1,7 +1,5 @@
 # Syllabus
 
-
-
 ![](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
 
 ## DM-UY 4003-A Senior Project in Digital Media
@@ -9,7 +7,7 @@
 _**“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”**_  
 ~ Norman Vincent Peale
 
-_**"We thrive when we stay on our own leading edge."**_  ~ Sarah Lewis   
+_**"We thrive when we stay on our own leading edge."**_ ~ Sarah Lewis  
 from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p. 20\).
 
 | PROFESSOR |  | COURSE INFO |  |
@@ -147,7 +145,8 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 * **Back up your work constantly** 
 * Complete all deliverables by their due dates
 * Action – do your absolute best
-* Strive for continuous improvement
+* Reflection - Any action without reflection is meaningless
+* Iteration - Strive for continuous improvement
 * Pay attention to detail & craft
 * Take risks & be fearless in your projects
 * Have fun!
@@ -162,7 +161,7 @@ Individual meetings are not optional. They are important and useful. Sometimes t
 
 ### Self Assessments
 
-Students will conduct **self assessments** as well as be evaluated by the professor at midterm and at the end of the semester. Any action without reflection is meaningless. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something.
+Students will conduct **self assessments** as well as be evaluated by the professor at midterm and at the end of the semester. Real learning only occurs as part of a reflective process. Reflection is studying your own practice as seriously as you study anything. It involves thinking about why, what, and how you create something.
 
 ### Evaluation & Grading
 
@@ -238,7 +237,7 @@ You MUST have complete rights of use to any and all materials which appear in yo
 
 ### Academic Accommodations
 
-If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at http://www.nyu.edu/csd. The Moses Center is located at [726 Broadway](https://www.google.com/maps?q=726+Broadway&entry=gmail&source=g) on the 2nd floor.
+If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at [http://www.nyu.edu/csd](http://www.nyu.edu/csd). The Moses Center is located at [726 Broadway](https://www.google.com/maps?q=726+Broadway&entry=gmail&source=g) on the 2nd floor.
 
 ### Diversity and Inclusion
 
@@ -265,7 +264,5 @@ Title IX makes it clear that violence and harassment based on sex and gender are
 
 ### [Recommended Resources](recommended_resources.md)
 
-### [Schedule](schedule.md)
-
-
+### [Schedule](schedule/)
 
