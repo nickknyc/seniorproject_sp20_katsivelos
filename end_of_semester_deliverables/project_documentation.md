@@ -1,6 +1,6 @@
-# Project Documentation for IDM Archives and Promotion
+# Project Documentation
 
-Upload to a a folder labeled "Project Documentation" for your [end of semester deliverables](end_of_semester_deliverables.md).
+Upload to a a folder labeled "Project Documentation" for your [end of semester deliverables](./).
 
 Photo documentation \(for all students\)
 

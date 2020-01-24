@@ -1,6 +1,8 @@
 # Project Plan
 
-![Forget Perfect. Make Progress!](http://teaching.polishedsolid.com/images/gettoworkbook_forget_perfect.png) _Illustration by Jolby from gettoworkbook_
+![Forget Perfect. Make Progress!](http://teaching.polishedsolid.com/images/gettoworkbook_forget_perfect.png) 
+
+_Illustration by Jolby from gettoworkbook_
 
 The project plan will consist of a presentation and a written proposal.
 
@@ -119,9 +121,22 @@ Please remember that you and a classmate can work as a team. Only one presentati
           <li>List of Collaborators, Participants, Advisors, and &quot;Outside&quot;
             critic (People and their roles). Be Specific. First &amp; Last Names and
             URLs if available</li>
-          <li>Materials &amp; Vendors List</li>
-          <li>Technical requirements</li>
-          <li>Budget</li>
+          <li>Materials &amp; Vendors List
+            <ul>
+              <li>Include URLS or physical addresses if necessary</li>
+            </ul>
+          </li>
+          <li>Technical requirements
+            <ul>
+              <li>Software and hardware</li>
+            </ul>
+          </li>
+          <li>Budget
+            <ul>
+              <li>Include materials costs, software/hardware costs, work for hire costs,
+                shipping costs</li>
+            </ul>
+          </li>
         </ul>
         <p>You should decide what kinds of resources are most appropriate for your
           project. (What assets do you require?)</p>
