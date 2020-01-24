@@ -18,6 +18,8 @@ This is your opportunity to start the semester off with momentum and make a real
 4. **In the URL**, change the value of the delayms variable to 20000 \(i.e. delayms=**20000**\). This will make the slides advance every 20s.
 5. Add this updated URL and your name to this [google doc](https://docs.google.com/document/d/1RhjN0MG0Fkuu44ZMliKjLGWCdgJoYqq2s5ZlKdjogKQ/edit?usp=sharing) before the beginning of the first day of class.
 
+![](../.gitbook/assets/publish.png)
+
 ## The content of your presentation should include the following:
 
 _You can decide how to allocate your 20 slides to address the following. Please use this order and headings_:
