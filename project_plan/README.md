@@ -121,8 +121,16 @@ Please remember that you and a classmate can work as a team. Only one presentati
           <li>List of Collaborators, Participants, Advisors, and &quot;Outside&quot;
             critic (People and their roles). Be Specific. First &amp; Last Names and
             URLs if available</li>
-          <li>Materials &amp; Vendors List</li>
-          <li>Technical requirements</li>
+          <li>Materials &amp; Vendors List
+            <ul>
+              <li>Include URLS or physical addresses if necessary</li>
+            </ul>
+          </li>
+          <li>Technical requirements
+            <ul>
+              <li>Include software, hardware, lab or shop accessibility hours</li>
+            </ul>
+          </li>
           <li>Budget</li>
         </ul>
         <p>You should decide what kinds of resources are most appropriate for your

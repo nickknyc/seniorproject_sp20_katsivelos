@@ -1,8 +1,6 @@
-# Personal Kanban
+# Personal Kanban / Project Milestones
 
-![Everyone Starts at Zero](http://teaching.polishedsolid.com/images/gettoworkbook_something.png) 
-
-_Illustration by Jolby from gettoworkbook_
+![Everyone Starts at Zero](http://teaching.polishedsolid.com/images/gettoworkbook_something.png) _Illustration by Jolby from gettoworkbook_
 
 **Break down** EVERYTHING you need to do for **your project into actionable tasks** using [Personal Kanban](http://personalkanban.com/pk/personal-kanban-101/). All actionable tasks should start with a verb \(i.e. write, call, email, build, collect, etc.\).
 
