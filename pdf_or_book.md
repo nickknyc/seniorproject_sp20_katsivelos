@@ -2,15 +2,15 @@
 
 This should be compiled using **Adobe InDesign**.
 
-I would use the [project plan](../project_plan/) _as a guideline_ for the structure of this pdf or book, and your process website, project demos, and project presentations for content. This pdf or book should illustrate and describe your project process over the course of the semester. Include details of how you did research, design, prototyping, and development. Also discuss how your project changed directions along the way and what you learned over the course of the semester. Include descriptions and images of your project at various stages \(prototypes and versions\) and an image of your final project. You should also consider layout and design elements of the pdf or book.
+I would use the [project plan](project_plan.md) _as a guideline_ for the structure of this pdf or book, and your process website, project demos, and project presentations for content. This pdf or book should illustrate and describe your project process over the course of the semester. Include details of how you did research, design, prototyping, and development. Also discuss how your project changed directions along the way and what you learned over the course of the semester. Include descriptions and images of your project at various stages \(prototypes and versions\) and an image of your final project. You should also consider layout and design elements of the pdf or book.
 
-Upload all drafts including the final version to a folder labeled _end of semester pdf \(or book\)_ in your project documentation folder for your [end of semester deliverables](./).
+Upload all drafts including the final version to a folder labeled _end of semester pdf \(or book\)_ in your project documentation folder for your [end of semester deliverables](end_of_semester_deliverables.md).
 
-### First and Second Drafts
+#### First and Second Drafts
 
 * Please name your file as lastname\_senior\_sp20\_draft\#\_date.pdf \(i.e. duff\_senior\_sp20\_draft1\_2020apr15.pdf and duff\_senior\_sp20\_draft2\_2020may08.pdf\)
 
-### Final Version
+#### Final Version
 
 * Please name your file as lastname\_senior\_sp20.pdf \(i.e. duff\_senior\_sp20.pdf\) 
 * If pdf, **post on slack** for everyone to see and download in the class

@@ -8,5 +8,5 @@ For more info check: [https://writingprocess.mit.edu/process/step-1-generate-ide
 
 **Mind Maps** are great when you're trying to get an exhaustive overview of everything you know about a particular topic. Afterward, you can identify any holes in your topic or decide to focus on a particular area.
 
-For more info check: [https://www.mindmapping.com](https://www.mindmapping.com/)
+For more info check: [https://www.mindmapping.com](https://www.mindmapping.com/) or [https://writingprocess.mit.edu/process/step-1-generate-ideas/instructions/idea-mapweb](https://writingprocess.mit.edu/process/step-1-generate-ideas/instructions/idea-mapweb)
 

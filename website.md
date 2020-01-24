@@ -8,14 +8,14 @@ You should have a **dedicated**, senior project website to document your **daily
   * I recommend [Dreamhost](http://dreamhost.com) or [Siteground](http://siteground.com) for purchasing a domain and web hosting.
 * Second best is hosting on [http://wp.nyu.edu](http://wp.nyu.edu)
 
-## What your senior project process website should contain?
+### What your senior project process website should contain?
 
 * Daily/Weekly senior project process & progress \(AKA what have you done today or this week?\) 
 * at least, 1 post per week DUE by or before noon on Mondays. If it is not posted by noon, you will not receive credit for this week.
 * If you do not do anything for the week, write **I did not work on my senior project this week.** You will still get credit as opposed to not posting anything at all.
 * The majority of the posts should be your own writing \(well-composed and proofread for impeccable spelling and grammar\).
 * Make sure to use tags so that you can group certain kinds of info.
-  * [Milestones / tasks](../assignments/personal_kanban.md) that have been completed \(either transcribed or linked from your personal kanban or a screenshot or photo\).
+  * [Milestones / tasks](personal_kanban.md) that have been completed \(either transcribed or linked from your personal kanban or a screenshot or photo\).
   * Include who or what was involved.
   * Include project progress and prototyping documentation: images, illustrations, audio, video, code, snippets of research, ANNOTATED links, etc. relevant to your thesis. 
   * Accountability partner meeting notes.
@@ -33,13 +33,13 @@ You should have a **dedicated**, senior project website to document your **daily
   * Your project description in a paragraph
   * Eventually hi-res image\(s\)
 
-## What your process website should NOT contain?
+### What your process website should NOT contain?
 
 * How you are feeling about your senior project? This is different than evaluating or reflecting about what is working and what is not working. In other words, don’t rant, complain, blame, self-deprecate or make excuses on your senior project website. 
 * This is a public representation of you as an artist, designer, creative technologist and/or entrepreneur. You want it to be as professional as possible. You want prospective employers, gallery owners, venture capitalists, and/or possible collaborators to take you seriously.
 * Any content that is NOT related to your senior project explicitly.
 
-## Examples of Process Websites
+### Examples of Process Websites
 
 Spencer Hargiss’ process website is a good example, [http://www.spencerhargiss.com/thesis/](http://www.spencerhargiss.com/thesis/). Please use Spencer’s process website as a guide. Why?
 
