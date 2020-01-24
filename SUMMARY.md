@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Pre-work](pre-work.md)
+* [Pre-work](pre-work/README.md)
   * [Pecha Kucha presentation](pre-work/pecha_kucha.md)
   * [Process Website](website.md)
 * [Syllabus](syllabus.md)
