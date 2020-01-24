@@ -128,10 +128,15 @@ Please remember that you and a classmate can work as a team. Only one presentati
           </li>
           <li>Technical requirements
             <ul>
-              <li>Include software, hardware, lab or shop accessibility hours</li>
+              <li>Software and hardware</li>
             </ul>
           </li>
-          <li>Budget</li>
+          <li>Budget
+            <ul>
+              <li>Include materials costs, software/hardware costs, work for hire costs,
+                shipping costs</li>
+            </ul>
+          </li>
         </ul>
         <p>You should decide what kinds of resources are most appropriate for your
           project. (What assets do you require?)</p>
