@@ -119,8 +119,11 @@ Please remember that you and a classmate can work as a team. Only one presentati
         <p>Including, but not limited to:</p>
         <ul>
           <li>List of Collaborators, Participants, Advisors, and &quot;Outside&quot;
-            critic (People and their roles). Be Specific. First &amp; Last Names and
-            URLs if available</li>
+            critic (People and their roles).
+            <ul>
+              <li>Be Specific. First &amp; Last Names and URLs if available</li>
+            </ul>
+          </li>
           <li>Materials &amp; Vendors List
             <ul>
               <li>Include URLS or physical addresses if necessary</li>
