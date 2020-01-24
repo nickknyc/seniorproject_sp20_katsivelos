@@ -167,7 +167,7 @@ Students will conduct **self assessments** as well as be evaluated by the profes
 
 **Attendance**
 
-* Per NYU policy, any excused absences need to be validated by Deanna Rayment \(deanna.rayment@nyu.edu\), and have the professor notified
+* Per NYU policy, any excused absences need to be validated by Deanna Rayment, Coordinator of Student Advocacy and Compliance for NYU Tandon School of Engineering \(deanna.rayment@nyu.edu\), and have the professor notified
 * If an excused absence is required for a religious observance, students need to contact Student Affairs at the beginning of the semester for a request, and have the professor notified
 * Attendance is mandatory on [Midterm Demo and Critique](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/project_demo.md) and [IDM Student Showcase](https://github.com/IDMNYU/seniorproject_sp20_duff/tree/f3ebe6a6e94faf73b9305ff9267222d1ffadd40f/critiques-demos-presentations-and-exhibition/idm_showcase.md).
 * Missed individual meetings will not be rescheduled; Make every effort to swap your timeslot with another student. Otherwise, students will have to wait for their next assigned meeting time if you do not attend or swap your timeslot.
