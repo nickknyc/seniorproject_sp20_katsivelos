@@ -28,7 +28,7 @@
   * [Personal Kanban](personal_kanban.md)
   * [Responses](responses.md)
 * [Brainstorming:](brainstorming/README.md)
-  * [Card Sorting](card_sorting.md)
+  * [Card Sorting](brainstorming/card_sorting.md)
   * [Storytelling Exercise](storytelling_exercise.md)
 * [Critiques: Demos, Presentations & Exhibition:](critiques-demos-presentations-and-exhibition/README.md)
   * [Project Demos](project_demo.md)
