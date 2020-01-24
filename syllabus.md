@@ -2,7 +2,7 @@
 
 ![](https://engineering.nyu.edu/sites/default/files/2019-01/tandon_long_black.png)
 
-## DM-UY 4003-A Senior Project in Digital Media
+## DM-UY 4003-B Senior Project in Digital Media
 
 _**“If you put off everything ‘till you’re sure of it, you’ll get nothing done.”**_  
 ~ Norman Vincent Peale
@@ -12,13 +12,13 @@ from _The Rise: Creativity, the Gift of Failure, and the Search for Mastery_ \(p
 
 | PROFESSOR |  | COURSE INFO |  |
 | :--- | :--- | :--- | :--- |
-| **Name** | De Angela L. Duff | **Term & Year** | Spring 2020 |
-| **Email** | deangela.duff@nyu.edu | **Meeting Day** | Mondays |
-| **Phone** | 646 997 3758 | **Meeting Time** | 12:30-2:20pm |
-| **Office** | 370 Jay St. Rm 361 or Bobst Rm 1238 | **Location** | 370 Jay St. Rm 311 |
-| **Office Hours** | after class or by appt. at [http://calendly.com/deangela](http://calendly.com/deangela) | **Credit Hrs** | 3 |
+| **Name** |Nick Katsivelos | **Term & Year** | Spring 2020 |
+| **Email** |nick.katsivelos@nyu.edu | **Meeting Day** | Mondays |
+| **Phone** | 646 201 3938 | **Meeting Time** | 12:30-2:20pm |
+| **Office** | 370 Jay St. Rm | **Location** | 370 Jay St. Rm 308 |
+| **Office Hours** | after class or by appt. contact me via email or Slack | **Credit Hrs** | 3 |
 
-**Course Website:** [https://deangela.gitbook.io/senior-project-sp20/](https://deangela.gitbook.io/senior-project-sp20/)  
+**Course Website:** [https://nick-katsivelos.gitbook.io/senior-project-sp20/](https://nick.katsivelos.gitbook.io/senior-project-sp20/)  
 The course website is the official source for all dates and assignments. This syllabus provides a general overview and guideline for the course. All dates and assignments may be subject to change at the discretion of the professor.
 
 **Course Communication:** [http://idmspsp20.slack.com](http://idmspsp20.slack.com)  
